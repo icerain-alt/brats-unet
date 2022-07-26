@@ -48,19 +48,6 @@ class Random_Crop(object):
 
         return {'image': image, 'label': label}
 
-class Crop(object):
-    def __call__(self, sample):
-        image = sample['image']
-        label = sample['label']
-
-        # print(image.shape)
-        # print(label.shape)
-        # [240,240,160] -> [160,160,160]
-        image = image[40:200,40:200, ...]
-        label = label[40:200,40:200,...]
-
-        return {'image': image, 'label': label}
-
 
 class Random_rotate(object):
     # 简单起见，随机旋转90,180,270度
