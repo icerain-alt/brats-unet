@@ -13,29 +13,18 @@ def pkload(fname):
         return pickle.load(f)
 
 
-class MaxMinNormalization(object):
-    def __call__(self, sample):
-        image = sample['image']
-        label = sample['label']
-        Max = np.max(image)
-        Min = np.min(image)
-        image = (image - Min) / (Max - Min)
-
-        return {'image': image, 'label': label}
-
-
 class Random_Flip(object):
     def __call__(self, sample):
         image = sample['image']
         label = sample['label']
         if random.random() < 0.5:
-            image = np.flip(image, 0)
+            image = np.flip(image, 1)
             label = np.flip(label, 0)
         if random.random() < 0.5:
-            image = np.flip(image, 1)
+            image = np.flip(image, 2)
             label = np.flip(label, 1)
         if random.random() < 0.5:
-            image = np.flip(image, 2)
+            image = np.flip(image, 3)
             label = np.flip(label, 2)
 
         return {'image': image, 'label': label}
@@ -48,12 +37,13 @@ class Random_Crop(object):
     def __call__(self, sample):
         image = sample['image']
         label = sample['label']
+
         D = random.randint(0, 155 - 128)
 
         # print(image.shape)
         # print(label.shape)
         # [240,240,155] -> [160,160,128]
-        image = image[40:200,40:200, D: D + 128, ...]
+        image = image[:,40:200,40:200, D: D + 128]
         label = label[40:200,40:200, D: D + 128]
 
         return {'image': image, 'label': label}
@@ -81,21 +71,10 @@ class Random_rotate(object):
         index = random.randint(0,2)  # 0,1,2
 
         # angle = round(np.random.uniform(-10, 10), 2)
-        image = ndimage.rotate(image, angles[index], axes=(0, 1), reshape=False)
+        image = ndimage.rotate(image, angles[index], axes=(1, 2), reshape=False)
         label = ndimage.rotate(label, angles[index], axes=(0, 1), reshape=False)
 
         return {'image': image, 'label': label}
-
-
-class Pad(object):
-    def __call__(self, sample):
-        image = sample['image']
-        label = sample['label']
-
-        image = np.pad(image, ((0, 0), (0, 0), (0, 5), (0, 0)), mode='constant')
-        label = np.pad(label, ((0, 0), (0, 0), (0, 5)), mode='constant')
-        return {'image': image, 'label': label}
-    #(240,240,155)>(240,240,160)
 
 
 def augment_gaussian_noise(data_sample, noise_variance=(0, 0.1)):
@@ -235,8 +214,8 @@ class ToTensor(object):
     """Convert ndarrays in sample to Tensors."""
     def __call__(self, sample):
         image = sample['image']
-        image = np.ascontiguousarray(image.transpose(3, 0, 1, 2))
         label = sample['label']
+        image = np.ascontiguousarray(image)
         label = np.ascontiguousarray(label)
 
         image = torch.from_numpy(image).float()
@@ -262,7 +241,7 @@ def transform(sample):
 
 def transform_valid(sample):
     trans = transforms.Compose([
-        Random_Crop(),
+        Random_Crop(),  # transformer训练的时候使用，训练集和验证集尺寸要一样
         # Pad(),
         # Crop(),
         # MaxMinNormalization(),
@@ -282,12 +261,14 @@ class BraTS(Dataset):
         path = self.paths[item]
         if self.mode == 'train':
             image, label = pkload(path)
-            # print(np.unique(label))
+            # [h,w,s,d] -> [d,h,w,s]
+            image = image.transpose(3, 0, 1, 2)
             sample = {'image': image, 'label': label}
             sample = transform(sample)
             return sample['image'], sample['label']
         elif self.mode == 'valid':
             image, label = pkload(path)
+            image = image.transpose(3, 0, 1, 2)
             sample = {'image': image, 'label': label}
             sample = transform_valid(sample)
             return sample['image'], sample['label']
