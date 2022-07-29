@@ -79,7 +79,7 @@ def val_loop(model,criterion,val_loader,device):
 
 def train(model,optimizer,scheduler,criterion,train_loader,
           val_loader,epochs,device,train_log,valid_loss_min=999.0):
-    for e in range(34,epochs):
+    for e in range(epochs):
         # train for epoch
         train_metrics = train_loop(model,optimizer,scheduler,criterion,train_loader,device,e)
         # eval for epoch
