@@ -1,2 +1,8 @@
 Epoch:[1/60] train_loss: 0.496 valid_loss: 0.267 
 Train--ET: 0.565 TC: 0.530 WT: 0.687  Valid--ET: 0.654 TC: 0.650 WT: 0.801 
+Epoch:[2/60] train_loss: 0.229 valid_loss: 0.205 
+Train--ET: 0.701 TC: 0.643 WT: 0.810  Valid--ET: 0.698 TC: 0.641 WT: 0.809 
+Epoch:[3/60] train_loss: 0.189 valid_loss: 0.208 
+Train--ET: 0.734 TC: 0.693 WT: 0.850  Valid--ET: 0.670 TC: 0.634 WT: 0.792 
+Epoch:[4/60] train_loss: 0.163 valid_loss: 0.152 
+Train--ET: 0.747 TC: 0.747 WT: 0.865  Valid--ET: 0.721 TC: 0.770 WT: 0.871 
