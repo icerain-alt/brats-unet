@@ -5,7 +5,7 @@ from torch.utils.data import DataLoader
 import torch
 import torch.optim as optim
 from tqdm import tqdm
-from BraTS import BraTS
+from BraTS import *
 from Unet import UNet
 from utils import Loss,cal_dice,cosine_scheduler
 
@@ -115,9 +115,20 @@ def main(args):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     # data info
-    train_dataset = BraTS(args.train_txt,args.data_path, mode='train')
-    val_dataset = BraTS(args.valid_txt,args.data_path,mode='valid')
-    test_dataset = BraTS(args.test_txt,args.data_path,mode='valid')
+    train_dataset = BraTS(args.data_path,args.train_txt,transform=transforms.Compose([
+        RandomRotFlip(),
+        RandomCrop((160,160,128)),
+        GaussianNoise(p=0.1),
+        ToTensor()
+    ]))
+    val_dataset = BraTS(args.data_path,args.valid_txt,transform=transforms.Compose([
+        CenterCrop((160,160,128)),
+        ToTensor()
+    ]))
+    test_dataset = BraTS(args.data_path,args.test_txt,transform=transforms.Compose([
+        CenterCrop((160,160,128)),
+        ToTensor()
+    ]))
 
     train_loader = DataLoader(dataset=train_dataset, batch_size=args.batch_size, num_workers=12,   # num_worker=4
                               shuffle=True, pin_memory=True)
@@ -132,7 +143,7 @@ def main(args):
 
     # 1-坏疽(NT,necrotic tumor core),2-浮肿区域(ED,peritumoral edema),4-增强肿瘤区域(ET,enhancing tumor)
     # 评价指标：ET(label4),TC(label1+label4),WT(label1+label2+label4)
-    model = UNet(in_channels=4,num_classes=4,feature_scale=3).to(device)
+    model = UNet(in_channels=4,num_classes=4).to(device)
     criterion = Loss(n_classes=4, weight=torch.tensor([0.2, 0.3, 0.25, 0.25])).to(device)
     optimizer = optim.SGD(model.parameters(),momentum=0.9, lr=0, weight_decay=5e-4)
     # optimizer = optim.AdamW(model.parameters(),betas=(0.9,0.95), lr=0, weight_decay=5e-4)
@@ -146,7 +157,7 @@ def main(args):
         optimizer.load_state_dict(weight_dict['optimizer'])
         print('Successfully loading checkpoint.')
 
-    # train(model,optimizer,scheduler,criterion,train_loader,val_loader,args.epochs,device,train_log=args.train_log)
+    train(model,optimizer,scheduler,criterion,train_loader,val_loader,args.epochs,device,train_log=args.train_log)
 
     # metrics1 = val_loop(model, criterion, train_loader, device)
     metrics2 = val_loop(model, criterion, val_loader, device)
@@ -164,14 +175,14 @@ if __name__ == '__main__':
     parser.add_argument('--seed', type=int, default=21)
     parser.add_argument('--epochs', type=int, default=60)
     parser.add_argument('--warmup_epochs', type=int, default=10)
-    parser.add_argument('--batch_size', type=int, default=5)
+    parser.add_argument('--batch_size', type=int, default=1)
     parser.add_argument('--lr', type=float, default=0.004)
     parser.add_argument('--min_lr', type=float, default=0.002)
-    parser.add_argument('--data_path', type=str, default='../../dataset/BraTS2021/dataset')
+    parser.add_argument('--data_path', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/dataset')
     # parser.add_argument('--data_path', type=str, default='/root/BraTS2021/dataset')
-    parser.add_argument('--train_txt', type=str, default='../../dataset/BraTS2021/train.txt')
-    parser.add_argument('--valid_txt', type=str, default='../../dataset/BraTS2021/valid.txt')
-    parser.add_argument('--test_txt', type=str, default='../../dataset/BraTS2021/test.txt')
+    parser.add_argument('--train_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/train.txt')
+    parser.add_argument('--valid_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/valid.txt')
+    parser.add_argument('--test_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/test.txt')
     parser.add_argument('--train_log', type=str, default='results/UNet.txt')
     parser.add_argument('--weights', type=str, default='results/UNet.pth')
     parser.add_argument('--save_path', type=str, default='checkpoint/UNet')
