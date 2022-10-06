@@ -9,8 +9,8 @@ modalities = ('flair', 't1ce', 't1', 't2')
 
 # train
 train_set = {
-        'root': '/root/data/dataset/BraTS2021/data',  # 四个模态数据所在地址
-        'out': '/root/data/dataset/BraTS2021/dataset',  # 预处理输出地址
+        'root': '/***/dataset/BraTS2021/data',  # 四个模态数据所在地址
+        'out': '/***/dataset/BraTS2021/dataset',  # 预处理输出地址
         'flist': 'train.txt',  # 训练集名单
         }
 

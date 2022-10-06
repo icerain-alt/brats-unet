@@ -127,8 +127,8 @@ class BraTS(Dataset):
 
 if __name__ == '__main__':
     from torchvision import transforms
-    data_path = "/data/omnisky/postgraduate/Yb/data_set/BraTS2021/dataset"
-    test_txt = "/data/omnisky/postgraduate/Yb/data_set/BraTS2021/test.txt"
+    data_path = "/***/data_set/BraTS2021/dataset"
+    test_txt = "/***/data_set/BraTS2021/test.txt"
     test_set = BraTS(data_path,test_txt,transform=transforms.Compose([
         RandomRotFlip(),
         RandomCrop((160,160,128)),

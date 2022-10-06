@@ -1,0 +1,2 @@
+Epoch:[1/60] train_loss: 0.496 valid_loss: 0.267 
+Train--ET: 0.565 TC: 0.530 WT: 0.687  Valid--ET: 0.654 TC: 0.650 WT: 0.801 

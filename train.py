@@ -115,18 +115,19 @@ def main(args):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     # data info
+    patch_size = (160,160,128)
     train_dataset = BraTS(args.data_path,args.train_txt,transform=transforms.Compose([
         RandomRotFlip(),
-        RandomCrop((160,160,128)),
+        RandomCrop(patch_size),
         GaussianNoise(p=0.1),
         ToTensor()
     ]))
     val_dataset = BraTS(args.data_path,args.valid_txt,transform=transforms.Compose([
-        CenterCrop((160,160,128)),
+        CenterCrop(patch_size),
         ToTensor()
     ]))
     test_dataset = BraTS(args.data_path,args.test_txt,transform=transforms.Compose([
-        CenterCrop((160,160,128)),
+        CenterCrop(patch_size),
         ToTensor()
     ]))
 
@@ -146,7 +147,6 @@ def main(args):
     model = UNet(in_channels=4,num_classes=4).to(device)
     criterion = Loss(n_classes=4, weight=torch.tensor([0.2, 0.3, 0.25, 0.25])).to(device)
     optimizer = optim.SGD(model.parameters(),momentum=0.9, lr=0, weight_decay=5e-4)
-    # optimizer = optim.AdamW(model.parameters(),betas=(0.9,0.95), lr=0, weight_decay=5e-4)
     scheduler = cosine_scheduler(base_value=args.lr,final_value=args.min_lr,epochs=args.epochs,
                                  niter_per_ep=len(train_loader),warmup_epochs=args.warmup_epochs,start_warmup_value=5e-4)
 
@@ -178,11 +178,10 @@ if __name__ == '__main__':
     parser.add_argument('--batch_size', type=int, default=1)
     parser.add_argument('--lr', type=float, default=0.004)
     parser.add_argument('--min_lr', type=float, default=0.002)
-    parser.add_argument('--data_path', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/dataset')
-    # parser.add_argument('--data_path', type=str, default='/root/BraTS2021/dataset')
-    parser.add_argument('--train_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/train.txt')
-    parser.add_argument('--valid_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/valid.txt')
-    parser.add_argument('--test_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/test.txt')
+    parser.add_argument('--data_path', type=str, default='/***/data_set/BraTS2021/dataset')
+    parser.add_argument('--train_txt', type=str, default='/***/data_set/BraTS2021/train.txt')
+    parser.add_argument('--valid_txt', type=str, default='/***/data_set/BraTS2021/valid.txt')
+    parser.add_argument('--test_txt', type=str, default='/***/data_set/BraTS2021/test.txt')
     parser.add_argument('--train_log', type=str, default='results/UNet.txt')
     parser.add_argument('--weights', type=str, default='results/UNet.pth')
     parser.add_argument('--save_path', type=str, default='checkpoint/UNet')
