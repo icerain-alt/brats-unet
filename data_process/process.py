@@ -31,7 +31,8 @@ def process_h5(path, out_path):
     label = np.array(nib_load(path + 'seg.nii.gz'), dtype='uint8', order='C')
     images = np.stack([np.array(nib_load(path + modal + '.nii.gz'), dtype='float32', order='C') for modal in modalities], 0)  # [240,240,155]
     case_name = path.split('/')[-1]
-    
+    # case_name = os.path.split(path)[-1]  # windows路径与linux不同
+
     path = os.path.join(out_path,case_name)  # 输出地址
     output = path + 'mri_norm2.h5'
     mask = images.sum(0) > 0
