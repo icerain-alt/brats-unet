@@ -6,6 +6,7 @@ Epoch:[3/60] train_loss: 0.189 valid_loss: 0.208
 Train--ET: 0.734 TC: 0.693 WT: 0.850  Valid--ET: 0.670 TC: 0.634 WT: 0.792 
 Epoch:[4/60] train_loss: 0.163 valid_loss: 0.152 
 Train--ET: 0.747 TC: 0.747 WT: 0.865  Valid--ET: 0.721 TC: 0.770 WT: 0.871 
+<<<<<<< HEAD
 Epoch:[5/60] train_loss: 0.146 valid_loss: 0.209 
 Train--ET: 0.753 TC: 0.768 WT: 0.874  Valid--ET: 0.714 TC: 0.724 WT: 0.797 
 Epoch:[6/60] train_loss: 0.139 valid_loss: 0.141 
@@ -16,3 +17,5 @@ Epoch:[8/60] train_loss: 0.132 valid_loss: 0.140
 Train--ET: 0.773 TC: 0.801 WT: 0.880  Valid--ET: 0.761 TC: 0.803 WT: 0.872 
 Epoch:[9/60] train_loss: 0.123 valid_loss: 0.130 
 Train--ET: 0.782 TC: 0.817 WT: 0.889  Valid--ET: 0.761 TC: 0.787 WT: 0.881 
+=======
+>>>>>>> 465a5c0d4bc21b38d6085bff23b53bda8dcf9a9a

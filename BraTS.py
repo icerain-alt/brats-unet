@@ -112,7 +112,11 @@ class BraTS(Dataset):
         h5f = h5py.File(self.paths[item], 'r')
         image = h5f['image'][:]
         label = h5f['label'][:]
+<<<<<<< HEAD
         print(image.shape)
+=======
+        # print(image.shape)
+>>>>>>> 465a5c0d4bc21b38d6085bff23b53bda8dcf9a9a
         sample = {'image': image, 'label': label}
         if self.transform:
             sample = self.transform(sample)
@@ -127,8 +131,13 @@ class BraTS(Dataset):
 
 if __name__ == '__main__':
     from torchvision import transforms
+<<<<<<< HEAD
     data_path = "/data/omnisky/postgraduate/Yb/data_set/BraTS2021/dataset"
     test_txt = "/data/omnisky/postgraduate/Yb/data_set/BraTS2021/test.txt"
+=======
+    data_path = "/***/data_set/BraTS2021/dataset"
+    test_txt = "/***/data_set/BraTS2021/test.txt"
+>>>>>>> 465a5c0d4bc21b38d6085bff23b53bda8dcf9a9a
     test_set = BraTS(data_path,test_txt,transform=transforms.Compose([
         RandomRotFlip(),
         RandomCrop((160,160,128)),
