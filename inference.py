@@ -7,9 +7,7 @@ import h5py
 import nibabel as nib
 from medpy import metric
 from networks.Unet import UNet
-import ptvsd 
-ptvsd.enable_attach(address =('omnisky',5678))  # 服务器ip地址，端口号可以默认或者自取
-ptvsd.wait_for_attach()
+
 
 def calculate_metric_percase(pred, gt):
     dice = metric.binary.dc(pred, gt)
@@ -58,9 +56,11 @@ def test_all_case(net, image_list, num_classes=2, patch_size=(112, 112, 80), str
         h5f = h5py.File(image_path, 'r')
         image = h5f['image'][:]
         label = h5f['label'][:]
+        label[label==4] =3  # 标签4变为3
         if preproc_fn is not None:
             image = preproc_fn(image)
         prediction, score_map = test_single_case(net, image, stride_xy, stride_z, patch_size, num_classes=num_classes)
+        print(np.unique(prediction),np.unique(label))
 
         if np.sum(prediction)==0:
             single_metric = (0,0,0,0)
@@ -71,7 +71,8 @@ def test_all_case(net, image_list, num_classes=2, patch_size=(112, 112, 80), str
 
         if save_result:
             nib.save(nib.Nifti1Image(prediction.astype(np.float32), np.eye(4)), test_save_path + "%02d_pred.nii.gz"%(ith))
-            nib.save(nib.Nifti1Image(image[:].astype(np.float32), np.eye(4)), test_save_path + "%02d_img.nii.gz"%(ith))
+            # image只保留一个模态
+            nib.save(nib.Nifti1Image(image[0].astype(np.float32), np.eye(4)), test_save_path + "%02d_img.nii.gz"%(ith))
             nib.save(nib.Nifti1Image(label[:].astype(np.float32), np.eye(4)), test_save_path + "%02d_gt.nii.gz"%(ith))
     avg_metric = total_metric / len(image_list)
     print('average metric is {}'.format(avg_metric))
@@ -80,8 +81,8 @@ def test_all_case(net, image_list, num_classes=2, patch_size=(112, 112, 80), str
 
 
 if __name__ == '__main__':
-    data_path = '/data/omnisky/postgraduate/Yb/data_set/BraTS2021/dataset'
-    test_save_path = 'predictions/unet'
+    data_path = '/root/data/dataset/BraTS2021/dataset'
+    test_save_path = 'predictions/unet/'
     save_mode_path = 'results/UNet.pth'
     net = UNet(in_channels=4,num_classes=4).cuda()
     net.load_state_dict(torch.load(save_mode_path)['model'])
@@ -90,7 +91,8 @@ if __name__ == '__main__':
     with open(data_path + '/../test.txt', 'r') as f:
         image_list = [os.path.join(data_path, x.strip()) for x in f.readlines()]
     print(len(image_list))
+    # print(image_list[0])
     # 滑动窗口法
     avg_metric = test_all_case(net, image_list, num_classes=4,
                                 patch_size=(160,160,128), stride_xy=32, stride_z=16,
-                                save_result=False,test_save_path=test_save_path)   
+                                save_result=True,test_save_path=test_save_path)   
