@@ -6,11 +6,7 @@ import torch
 import torch.optim as optim
 from tqdm import tqdm
 from BraTS import *
-<<<<<<< HEAD
 from networks.Unet import UNet
-=======
-from Unet import UNet
->>>>>>> 465a5c0d4bc21b38d6085bff23b53bda8dcf9a9a
 from utils import Loss,cal_dice,cosine_scheduler
 
 
@@ -119,33 +115,19 @@ def main(args):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     # data info
-<<<<<<< HEAD
-    train_dataset = BraTS(args.data_path,args.train_txt,transform=transforms.Compose([
-        RandomRotFlip(),
-        RandomCrop((160,160,128)),
-=======
     patch_size = (160,160,128)
     train_dataset = BraTS(args.data_path,args.train_txt,transform=transforms.Compose([
         RandomRotFlip(),
         RandomCrop(patch_size),
->>>>>>> 465a5c0d4bc21b38d6085bff23b53bda8dcf9a9a
         GaussianNoise(p=0.1),
         ToTensor()
     ]))
     val_dataset = BraTS(args.data_path,args.valid_txt,transform=transforms.Compose([
-<<<<<<< HEAD
-        CenterCrop((160,160,128)),
-        ToTensor()
-    ]))
-    test_dataset = BraTS(args.data_path,args.test_txt,transform=transforms.Compose([
-        CenterCrop((160,160,128)),
-=======
         CenterCrop(patch_size),
         ToTensor()
     ]))
     test_dataset = BraTS(args.data_path,args.test_txt,transform=transforms.Compose([
         CenterCrop(patch_size),
->>>>>>> 465a5c0d4bc21b38d6085bff23b53bda8dcf9a9a
         ToTensor()
     ]))
 
@@ -196,18 +178,10 @@ if __name__ == '__main__':
     parser.add_argument('--batch_size', type=int, default=1)
     parser.add_argument('--lr', type=float, default=0.004)
     parser.add_argument('--min_lr', type=float, default=0.002)
-<<<<<<< HEAD
     parser.add_argument('--data_path', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/dataset')
-    # parser.add_argument('--data_path', type=str, default='/root/BraTS2021/dataset')
     parser.add_argument('--train_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/train.txt')
     parser.add_argument('--valid_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/valid.txt')
     parser.add_argument('--test_txt', type=str, default='/data/omnisky/postgraduate/Yb/data_set/BraTS2021/test.txt')
-=======
-    parser.add_argument('--data_path', type=str, default='/***/data_set/BraTS2021/dataset')
-    parser.add_argument('--train_txt', type=str, default='/***/data_set/BraTS2021/train.txt')
-    parser.add_argument('--valid_txt', type=str, default='/***/data_set/BraTS2021/valid.txt')
-    parser.add_argument('--test_txt', type=str, default='/***/data_set/BraTS2021/test.txt')
->>>>>>> 465a5c0d4bc21b38d6085bff23b53bda8dcf9a9a
     parser.add_argument('--train_log', type=str, default='results/UNet.txt')
     parser.add_argument('--weights', type=str, default='results/UNet.pth')
     parser.add_argument('--save_path', type=str, default='checkpoint/UNet')
