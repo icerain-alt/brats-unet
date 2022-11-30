@@ -54,7 +54,6 @@ class Loss(nn.Module):
 
     def forward(self, input, target):
         # print(torch.unique(target))
-        target[target == 4] = 3
         smooth = 0.01
 
         input1 = F.softmax(input, dim=1)
