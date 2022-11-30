@@ -112,6 +112,8 @@ class BraTS(Dataset):
         h5f = h5py.File(self.paths[item], 'r')
         image = h5f['image'][:]
         label = h5f['label'][:]
+        #[0,1,2,4] -> [0,1,2,3]
+        label[label == 4] = 3
         # print(image.shape)
         sample = {'image': image, 'label': label}
         if self.transform:
