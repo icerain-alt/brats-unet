@@ -1,0 +1,1256 @@
+BraTS2021,BraTS2020,BraTS2019,BraTS2018,BraTS2017,Cohort Name (if publicly available),Site No (represents the originating institution),Local ID 
+BraTS2021_01163,N/A,N/A,N/A,N/A,ACRIN-FMISO-Brain (ACRIN 6684),19,ACRIN-FMISO-Brain-004
+BraTS2021_01164,N/A,N/A,N/A,N/A,ACRIN-FMISO-Brain (ACRIN 6684),19,ACRIN-FMISO-Brain-034
+BraTS2021_01165,N/A,N/A,N/A,N/A,ACRIN-FMISO-Brain (ACRIN 6684),19,ACRIN-FMISO-Brain-036
+BraTS2021_01166,N/A,N/A,N/A,N/A,ACRIN-FMISO-Brain (ACRIN 6684),19,ACRIN-FMISO-Brain-042
+BraTS2021_00101,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00016
+BraTS2021_00127,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-03755
+BraTS2021_00442,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-02465
+BraTS2021_00443,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-02708
+BraTS2021_00444,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-01851
+BraTS2021_00445,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-01043
+BraTS2021_00446,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-01156
+BraTS2021_00448,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-02504
+BraTS2021_00449,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-00663
+BraTS2021_00451,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00677
+BraTS2021_00452,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-01155
+BraTS2021_00453,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-03727
+BraTS2021_00454,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-01045
+BraTS2021_00455,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-01142
+BraTS2021_00456,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-00665
+BraTS2021_00457,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-01327
+BraTS2021_00459,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-02041
+BraTS2021_01011,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00019
+BraTS2021_01012,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00265
+BraTS2021_01013,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00278
+BraTS2021_01014,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00349
+BraTS2021_01015,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00424
+BraTS2021_01016,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00429
+BraTS2021_01017,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00528
+BraTS2021_01018,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00591
+BraTS2021_01019,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-00671
+BraTS2021_01020,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-01046
+BraTS2021_01021,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3L-01146
+BraTS2021_01022,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-00662
+BraTS2021_01023,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-01505
+BraTS2021_01024,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-01849
+BraTS2021_01025,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-03001
+BraTS2021_01026,N/A,N/A,N/A,N/A,CPTAC-GBM,20,C3N-04686
+BraTS2021_00780,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00781,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00782,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00784,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00787,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00788,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00789,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00791,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00792,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00793,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00795,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00796,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00797,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00799,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00800,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00801,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00802,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00803,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00804,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00805,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00806,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00807,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00808,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00809,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00810,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00811,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00814,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00816,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00818,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00819,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00820,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00823,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00824,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00828,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00830,N/A,N/A,N/A,N/A,Private Collection,21,N/A
+BraTS2021_00115,BraTS20_Training_359,N/A,N/A,N/A,IvyGAP,16,W26
+BraTS2021_00567,BraTS20_Training_356,N/A,N/A,N/A,IvyGAP,16,W40
+BraTS2021_00568,BraTS20_Training_369,N/A,N/A,N/A,IvyGAP,16,W9
+BraTS2021_00569,BraTS20_Training_365,N/A,N/A,N/A,IvyGAP,16,W5
+BraTS2021_00570,BraTS20_Training_357,N/A,N/A,N/A,IvyGAP,16,W42
+BraTS2021_00571,BraTS20_Training_366,N/A,N/A,N/A,IvyGAP,16,W6
+BraTS2021_00572,BraTS20_Training_368,N/A,N/A,N/A,IvyGAP,16,W8
+BraTS2021_00574,BraTS20_Training_351,N/A,N/A,N/A,IvyGAP,16,W34
+BraTS2021_00575,BraTS20_Training_363,N/A,N/A,N/A,IvyGAP,16,W54
+BraTS2021_00576,BraTS20_Training_344,N/A,N/A,N/A,IvyGAP,16,W22
+BraTS2021_00577,BraTS20_Training_337,N/A,N/A,N/A,IvyGAP,16,W11
+BraTS2021_00578,BraTS20_Training_349,N/A,N/A,N/A,IvyGAP,16,W19
+BraTS2021_00579,BraTS20_Training_350,N/A,N/A,N/A,IvyGAP,16,W33
+BraTS2021_00580,BraTS20_Training_343,N/A,N/A,N/A,IvyGAP,16,W20
+BraTS2021_00581,BraTS20_Training_338,N/A,N/A,N/A,IvyGAP,16,W12
+BraTS2021_00582,BraTS20_Training_352,N/A,N/A,N/A,IvyGAP,16,W35
+BraTS2021_00583,BraTS20_Training_362,N/A,N/A,N/A,IvyGAP,16,W53
+BraTS2021_00584,BraTS20_Training_341,N/A,N/A,N/A,IvyGAP,16,W32
+BraTS2021_00586,BraTS20_Training_336,N/A,N/A,N/A,IvyGAP,16,W10
+BraTS2021_00587,BraTS20_Training_342,N/A,N/A,N/A,IvyGAP,16,W1
+BraTS2021_00588,BraTS20_Training_345,N/A,N/A,N/A,IvyGAP,16,W48
+BraTS2021_00589,BraTS20_Training_360,N/A,N/A,N/A,IvyGAP,16,W4
+BraTS2021_00590,BraTS20_Training_358,N/A,N/A,N/A,IvyGAP,16,W38
+BraTS2021_00591,BraTS20_Training_339,N/A,N/A,N/A,IvyGAP,16,W13
+BraTS2021_00593,BraTS20_Training_348,N/A,N/A,N/A,IvyGAP,16,W30
+BraTS2021_00594,BraTS20_Training_340,N/A,N/A,N/A,IvyGAP,16,W18
+BraTS2021_00596,BraTS20_Training_346,N/A,N/A,N/A,IvyGAP,16,W29
+BraTS2021_00597,BraTS20_Training_361,N/A,N/A,N/A,IvyGAP,16,W50
+BraTS2021_00598,BraTS20_Training_364,N/A,N/A,N/A,IvyGAP,16,W55
+BraTS2021_00599,BraTS20_Training_347,N/A,N/A,N/A,IvyGAP,16,W2
+BraTS2021_00118,N/A,N/A,N/A,N/A,Private Collection,22,N/A
+BraTS2021_00126,N/A,N/A,N/A,N/A,Private Collection,22,N/A
+BraTS2021_01029,N/A,N/A,N/A,N/A,Private Collection,22,N/A
+BraTS2021_01030,N/A,N/A,N/A,N/A,Private Collection,22,N/A
+BraTS2021_01031,N/A,N/A,N/A,N/A,Private Collection,22,N/A
+BraTS2021_01032,N/A,N/A,N/A,N/A,Private Collection,22,N/A
+BraTS2021_01033,N/A,N/A,N/A,N/A,Private Collection,22,N/A
+BraTS2021_00131,BraTS20_Training_004,BraTS19_CBICA_AAP_1,Brats18_CBICA_AAP_1,Brats17_CBICA_AAP_1,Private Collection,1,N/A
+BraTS2021_00152,BraTS20_Training_019,BraTS19_CBICA_ANZ_1,Brats18_CBICA_ANZ_1,Brats17_CBICA_ANZ_1,Private Collection,1,N/A
+BraTS2021_00154,BraTS20_Training_041,BraTS19_CBICA_AQZ_1,Brats18_CBICA_AQZ_1,Brats17_CBICA_AQZ_1,Private Collection,1,N/A
+BraTS2021_00155,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00156,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00157,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00158,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00159,BraTS20_Training_114,BraTS19_CBICA_BGE_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00160,BraTS20_Training_113,BraTS19_CBICA_BEM_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00162,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00165,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00166,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00167,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00170,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00171,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00172,BraTS20_Training_123,BraTS19_CBICA_BHV_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00176,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00177,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00178,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00183,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00184,BraTS20_Training_117,BraTS19_CBICA_BGO_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00185,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00186,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00187,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00188,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00191,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00192,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00193,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00194,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00195,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00196,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00199,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00201,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00203,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00204,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00206,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00207,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00209,BraTS20_Training_111,BraTS19_CBICA_BCL_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00210,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00211,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00212,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00214,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00216,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00217,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00218,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00219,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00220,BraTS20_Training_126,BraTS19_CBICA_BJY_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00221,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00222,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00227,BraTS20_Training_048,BraTS19_CBICA_ASH_1,Brats18_CBICA_ASH_1,Brats17_CBICA_ASH_1,Private Collection,1,N/A
+BraTS2021_00228,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00230,BraTS20_Training_042,BraTS19_CBICA_ARF_1,Brats18_CBICA_ARF_1,Brats17_CBICA_ARF_1,Private Collection,1,N/A
+BraTS2021_00231,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00233,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00234,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00235,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00236,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00237,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00238,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00239,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00240,BraTS20_Training_098,BraTS19_CBICA_AUX_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00241,BraTS20_Training_127,BraTS19_CBICA_BKV_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00242,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00243,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00246,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00247,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00249,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00250,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00251,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00253,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00254,BraTS20_Training_093,BraTS19_CBICA_ASF_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00258,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00259,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00260,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00261,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00262,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00263,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00266,BraTS20_Training_124,BraTS19_CBICA_BHZ_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00267,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00269,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00270,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00271,BraTS20_Training_125,BraTS19_CBICA_BIC_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00273,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00274,BraTS20_Training_052,BraTS19_CBICA_ASU_1,Brats18_CBICA_ASU_1,Brats17_CBICA_ASU_1,Private Collection,1,N/A
+BraTS2021_00275,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00280,BraTS20_Training_088,BraTS19_CBICA_BHM_1,Brats18_CBICA_BHM_1,Brats17_CBICA_BHM_1,Private Collection,1,N/A
+BraTS2021_00281,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00282,BraTS20_Training_118,BraTS19_CBICA_BGR_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00283,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00284,BraTS20_Training_044,BraTS19_CBICA_ARZ_1,Brats18_CBICA_ARZ_1,Brats17_CBICA_ARZ_1,Private Collection,1,N/A
+BraTS2021_00285,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00286,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00288,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00289,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00290,BraTS20_Training_055,BraTS19_CBICA_ASY_1,Brats18_CBICA_ASY_1,Brats17_CBICA_ASY_1,Private Collection,1,N/A
+BraTS2021_00291,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00292,BraTS20_Training_043,BraTS19_CBICA_ARW_1,Brats18_CBICA_ARW_1,Brats17_CBICA_ARW_1,Private Collection,1,N/A
+BraTS2021_00293,BraTS20_Training_128,BraTS19_CBICA_BLJ_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00294,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00296,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00297,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00298,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00299,BraTS20_Training_129,BraTS19_CBICA_BNR_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00300,BraTS20_Training_104,BraTS19_CBICA_AYC_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00301,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00303,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00304,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00305,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00306,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00309,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00310,BraTS20_Training_045,BraTS19_CBICA_ASA_1,Brats18_CBICA_ASA_1,Brats17_CBICA_ASA_1,Private Collection,1,N/A
+BraTS2021_00311,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00312,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00313,BraTS20_Training_085,BraTS19_CBICA_BFP_1,Brats18_CBICA_BFP_1,Brats17_CBICA_BFP_1,Private Collection,1,N/A
+BraTS2021_00314,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00316,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00317,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00318,BraTS20_Training_040,BraTS19_CBICA_AQY_1,Brats18_CBICA_AQY_1,Brats17_CBICA_AQY_1,Private Collection,1,N/A
+BraTS2021_00320,BraTS20_Training_078,BraTS19_CBICA_AYA_1,Brats18_CBICA_AYA_1,Brats17_CBICA_AYA_1,Private Collection,1,N/A
+BraTS2021_00321,BraTS20_Training_086,BraTS19_CBICA_BHB_1,Brats18_CBICA_BHB_1,Brats17_CBICA_BHB_1,Private Collection,1,N/A
+BraTS2021_00322,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00324,BraTS20_Training_049,BraTS19_CBICA_ASK_1,Brats18_CBICA_ASK_1,Brats17_CBICA_ASK_1,Private Collection,1,N/A
+BraTS2021_00325,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00327,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00328,BraTS20_Training_084,BraTS19_CBICA_BFB_1,Brats18_CBICA_BFB_1,Brats17_CBICA_BFB_1,Private Collection,1,N/A
+BraTS2021_00329,BraTS20_Training_105,BraTS19_CBICA_AYG_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00331,BraTS20_Training_087,BraTS19_CBICA_BHK_1,Brats18_CBICA_BHK_1,Brats17_CBICA_BHK_1,Private Collection,1,N/A
+BraTS2021_00332,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00334,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00336,BraTS20_Training_121,BraTS19_CBICA_BGX_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00338,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00339,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00340,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00341,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00343,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00344,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00346,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00347,BraTS20_Training_116,BraTS19_CBICA_BGN_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00348,BraTS20_Training_094,BraTS19_CBICA_ASR_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00349,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00350,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00351,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00352,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00353,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00356,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00359,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00360,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00364,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00366,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00367,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00369,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00370,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00371,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00373,BraTS20_Training_108,BraTS19_CBICA_BAX_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00375,BraTS20_Training_053,BraTS19_CBICA_ASV_1,Brats18_CBICA_ASV_1,Brats17_CBICA_ASV_1,Private Collection,1,N/A
+BraTS2021_00376,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00377,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00378,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00379,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00380,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00382,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00383,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00386,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00387,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00388,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00389,BraTS20_Training_122,BraTS19_CBICA_BHQ_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00390,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00391,BraTS20_Training_050,BraTS19_CBICA_ASN_1,Brats18_CBICA_ASN_1,Brats17_CBICA_ASN_1,Private Collection,1,N/A
+BraTS2021_00392,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00395,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00397,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00399,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00400,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00401,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00402,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00403,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00404,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00405,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00406,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00407,BraTS20_Training_051,BraTS19_CBICA_ASO_1,Brats18_CBICA_ASO_1,Brats17_CBICA_ASO_1,Private Collection,1,N/A
+BraTS2021_00409,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00410,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00412,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00413,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00414,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00416,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00417,BraTS20_Training_037,BraTS19_CBICA_AQT_1,Brats18_CBICA_AQT_1,Brats17_CBICA_AQT_1,Private Collection,1,N/A
+BraTS2021_00418,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00419,BraTS20_Training_119,BraTS19_CBICA_BGT_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00421,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00423,BraTS20_Training_092,BraTS19_CBICA_APK_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00425,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00426,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00429,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00430,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00431,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00432,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00433,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00436,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00440,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00441,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00834,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00836,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00837,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00838,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00839,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_00840,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01000,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01001,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01004,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01008,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01010,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01034,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01036,BraTS20_Training_036,BraTS19_CBICA_AQR_1,Brats18_CBICA_AQR_1,Brats17_CBICA_AQR_1,Private Collection,1,N/A
+BraTS2021_01037,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01038,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01039,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01040,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01041,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01042,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01043,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01044,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01045,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01046,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01047,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01048,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01049,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01050,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01051,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01052,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01053,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01054,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01055,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01056,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01057,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01058,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01059,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01060,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01061,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01062,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01063,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01064,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01065,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01066,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01067,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01068,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01069,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01070,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01071,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01072,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01073,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01074,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01075,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01076,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01077,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01078,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01079,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01080,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01081,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01082,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01083,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01084,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01085,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01086,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01087,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01088,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01089,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01090,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01091,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01092,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01093,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01094,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01095,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01096,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01097,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01098,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01099,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01100,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01101,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01102,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01103,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01104,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01105,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01106,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01107,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01108,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01109,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01110,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01111,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01112,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01113,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01114,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01115,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01116,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01117,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01118,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01119,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01120,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01121,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01122,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01123,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01124,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01125,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01126,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01127,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01128,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01129,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01130,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01131,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01132,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01133,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01134,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01135,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01136,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01137,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01138,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01202,BraTS20_Training_001,BraTS19_CBICA_AAB_1,Brats18_CBICA_AAB_1,Brats17_CBICA_AAB_1,Private Collection,1,N/A
+BraTS2021_01203,BraTS20_Training_002,BraTS19_CBICA_AAG_1,Brats18_CBICA_AAG_1,Brats17_CBICA_AAG_1,Private Collection,1,N/A
+BraTS2021_01204,BraTS20_Training_003,BraTS19_CBICA_AAL_1,Brats18_CBICA_AAL_1,Brats17_CBICA_AAL_1,Private Collection,1,N/A
+BraTS2021_01205,BraTS20_Training_005,BraTS19_CBICA_ABB_1,Brats18_CBICA_ABB_1,Brats17_CBICA_ABB_1,Private Collection,1,N/A
+BraTS2021_01206,BraTS20_Training_006,BraTS19_CBICA_ABE_1,Brats18_CBICA_ABE_1,Brats17_CBICA_ABE_1,Private Collection,1,N/A
+BraTS2021_01207,BraTS20_Training_007,BraTS19_CBICA_ABM_1,Brats18_CBICA_ABM_1,Brats17_CBICA_ABM_1,Private Collection,1,N/A
+BraTS2021_01208,BraTS20_Training_008,BraTS19_CBICA_ABN_1,Brats18_CBICA_ABN_1,Brats17_CBICA_ABN_1,Private Collection,1,N/A
+BraTS2021_01209,BraTS20_Training_009,BraTS19_CBICA_ABO_1,Brats18_CBICA_ABO_1,Brats17_CBICA_ABO_1,Private Collection,1,N/A
+BraTS2021_01210,BraTS20_Training_010,BraTS19_CBICA_ABY_1,Brats18_CBICA_ABY_1,Brats17_CBICA_ABY_1,Private Collection,1,N/A
+BraTS2021_01211,BraTS20_Training_011,BraTS19_CBICA_ALN_1,Brats18_CBICA_ALN_1,Brats17_CBICA_ALN_1,Private Collection,1,N/A
+BraTS2021_01212,BraTS20_Training_012,BraTS19_CBICA_ALU_1,Brats18_CBICA_ALU_1,Brats17_CBICA_ALU_1,Private Collection,1,N/A
+BraTS2021_01213,BraTS20_Training_013,BraTS19_CBICA_ALX_1,Brats18_CBICA_ALX_1,Brats17_CBICA_ALX_1,Private Collection,1,N/A
+BraTS2021_01214,BraTS20_Training_014,BraTS19_CBICA_AME_1,Brats18_CBICA_AME_1,Brats17_CBICA_AME_1,Private Collection,1,N/A
+BraTS2021_01215,BraTS20_Training_015,BraTS19_CBICA_AMH_1,Brats18_CBICA_AMH_1,Brats17_CBICA_AMH_1,Private Collection,1,N/A
+BraTS2021_01216,BraTS20_Training_016,BraTS19_CBICA_ANG_1,Brats18_CBICA_ANG_1,Brats17_CBICA_ANG_1,Private Collection,1,N/A
+BraTS2021_01217,BraTS20_Training_017,BraTS19_CBICA_ANI_1,Brats18_CBICA_ANI_1,Brats17_CBICA_ANI_1,Private Collection,1,N/A
+BraTS2021_01218,BraTS20_Training_018,BraTS19_CBICA_ANP_1,Brats18_CBICA_ANP_1,Brats17_CBICA_ANP_1,Private Collection,1,N/A
+BraTS2021_01219,BraTS20_Training_089,BraTS19_CBICA_ANV_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01220,BraTS20_Training_090,BraTS19_CBICA_AOC_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01221,BraTS20_Training_020,BraTS19_CBICA_AOD_1,Brats18_CBICA_AOD_1,Brats17_CBICA_AOD_1,Private Collection,1,N/A
+BraTS2021_01222,BraTS20_Training_021,BraTS19_CBICA_AOH_1,Brats18_CBICA_AOH_1,Brats17_CBICA_AOH_1,Private Collection,1,N/A
+BraTS2021_01223,BraTS20_Training_022,BraTS19_CBICA_AOO_1,Brats18_CBICA_AOO_1,Brats17_CBICA_AOO_1,Private Collection,1,N/A
+BraTS2021_01224,BraTS20_Training_023,BraTS19_CBICA_AOP_1,Brats18_CBICA_AOP_1,Brats17_CBICA_AOP_1,Private Collection,1,N/A
+BraTS2021_01225,BraTS20_Training_091,BraTS19_CBICA_AOS_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01226,BraTS20_Training_024,BraTS19_CBICA_AOZ_1,Brats18_CBICA_AOZ_1,Brats17_CBICA_AOZ_1,Private Collection,1,N/A
+BraTS2021_01227,BraTS20_Training_025,BraTS19_CBICA_APR_1,Brats18_CBICA_APR_1,Brats17_CBICA_APR_1,Private Collection,1,N/A
+BraTS2021_01228,BraTS20_Training_026,BraTS19_CBICA_APY_1,Brats18_CBICA_APY_1,Brats17_CBICA_APY_1,Private Collection,1,N/A
+BraTS2021_01229,BraTS20_Training_027,BraTS19_CBICA_APZ_1,Brats18_CBICA_APZ_1,Brats17_CBICA_APZ_1,Private Collection,1,N/A
+BraTS2021_01230,BraTS20_Training_028,BraTS19_CBICA_AQA_1,Brats18_CBICA_AQA_1,Brats17_CBICA_AQA_1,Private Collection,1,N/A
+BraTS2021_01231,BraTS20_Training_029,BraTS19_CBICA_AQD_1,Brats18_CBICA_AQD_1,Brats17_CBICA_AQD_1,Private Collection,1,N/A
+BraTS2021_01232,BraTS20_Training_030,BraTS19_CBICA_AQG_1,Brats18_CBICA_AQG_1,Brats17_CBICA_AQG_1,Private Collection,1,N/A
+BraTS2021_01233,BraTS20_Training_031,BraTS19_CBICA_AQJ_1,Brats18_CBICA_AQJ_1,Brats17_CBICA_AQJ_1,Private Collection,1,N/A
+BraTS2021_01234,BraTS20_Training_032,BraTS19_CBICA_AQN_1,Brats18_CBICA_AQN_1,Brats17_CBICA_AQN_1,Private Collection,1,N/A
+BraTS2021_01235,BraTS20_Training_033,BraTS19_CBICA_AQO_1,Brats18_CBICA_AQO_1,Brats17_CBICA_AQO_1,Private Collection,1,N/A
+BraTS2021_01236,BraTS20_Training_034,BraTS19_CBICA_AQP_1,Brats18_CBICA_AQP_1,Brats17_CBICA_AQP_1,Private Collection,1,N/A
+BraTS2021_01237,BraTS20_Training_035,BraTS19_CBICA_AQQ_1,Brats18_CBICA_AQQ_1,Brats17_CBICA_AQQ_1,Private Collection,1,N/A
+BraTS2021_01238,BraTS20_Training_038,BraTS19_CBICA_AQU_1,Brats18_CBICA_AQU_1,Brats17_CBICA_AQU_1,Private Collection,1,N/A
+BraTS2021_01239,BraTS20_Training_039,BraTS19_CBICA_AQV_1,Brats18_CBICA_AQV_1,Brats17_CBICA_AQV_1,Private Collection,1,N/A
+BraTS2021_01240,BraTS20_Training_046,BraTS19_CBICA_ASE_1,Brats18_CBICA_ASE_1,Brats17_CBICA_ASE_1,Private Collection,1,N/A
+BraTS2021_01241,BraTS20_Training_047,BraTS19_CBICA_ASG_1,Brats18_CBICA_ASG_1,Brats17_CBICA_ASG_1,Private Collection,1,N/A
+BraTS2021_01242,BraTS20_Training_054,BraTS19_CBICA_ASW_1,Brats18_CBICA_ASW_1,Brats17_CBICA_ASW_1,Private Collection,1,N/A
+BraTS2021_01243,BraTS20_Training_056,BraTS19_CBICA_ATB_1,Brats18_CBICA_ATB_1,Brats17_CBICA_ATB_1,Private Collection,1,N/A
+BraTS2021_01244,BraTS20_Training_057,BraTS19_CBICA_ATD_1,Brats18_CBICA_ATD_1,Brats17_CBICA_ATD_1,Private Collection,1,N/A
+BraTS2021_01245,BraTS20_Training_058,BraTS19_CBICA_ATF_1,Brats18_CBICA_ATF_1,Brats17_CBICA_ATF_1,Private Collection,1,N/A
+BraTS2021_01246,BraTS20_Training_095,BraTS19_CBICA_ATN_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01247,BraTS20_Training_059,BraTS19_CBICA_ATP_1,Brats18_CBICA_ATP_1,Brats17_CBICA_ATP_1,Private Collection,1,N/A
+BraTS2021_01248,BraTS20_Training_060,BraTS19_CBICA_ATV_1,Brats18_CBICA_ATV_1,Brats17_CBICA_ATV_1,Private Collection,1,N/A
+BraTS2021_01249,BraTS20_Training_061,BraTS19_CBICA_ATX_1,Brats18_CBICA_ATX_1,Brats17_CBICA_ATX_1,Private Collection,1,N/A
+BraTS2021_01250,BraTS20_Training_096,BraTS19_CBICA_AUA_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01251,BraTS20_Training_062,BraTS19_CBICA_AUN_1,Brats18_CBICA_AUN_1,Brats17_CBICA_AUN_1,Private Collection,1,N/A
+BraTS2021_01252,BraTS20_Training_063,BraTS19_CBICA_AUQ_1,Brats18_CBICA_AUQ_1,Brats17_CBICA_AUQ_1,Private Collection,1,N/A
+BraTS2021_01253,BraTS20_Training_064,BraTS19_CBICA_AUR_1,Brats18_CBICA_AUR_1,Brats17_CBICA_AUR_1,Private Collection,1,N/A
+BraTS2021_01254,BraTS20_Training_097,BraTS19_CBICA_AUW_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01255,BraTS20_Training_099,BraTS19_CBICA_AVB_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01256,BraTS20_Training_100,BraTS19_CBICA_AVF_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01257,BraTS20_Training_065,BraTS19_CBICA_AVG_1,Brats18_CBICA_AVG_1,Brats17_CBICA_AVG_1,Private Collection,1,N/A
+BraTS2021_01258,BraTS20_Training_066,BraTS19_CBICA_AVJ_1,Brats18_CBICA_AVJ_1,Brats17_CBICA_AVJ_1,Private Collection,1,N/A
+BraTS2021_01259,BraTS20_Training_101,BraTS19_CBICA_AVT_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01260,BraTS20_Training_067,BraTS19_CBICA_AVV_1,Brats18_CBICA_AVV_1,Brats17_CBICA_AVV_1,Private Collection,1,N/A
+BraTS2021_01261,BraTS20_Training_068,BraTS19_CBICA_AWG_1,Brats18_CBICA_AWG_1,Brats17_CBICA_AWG_1,Private Collection,1,N/A
+BraTS2021_01262,BraTS20_Training_069,BraTS19_CBICA_AWH_1,Brats18_CBICA_AWH_1,Brats17_CBICA_AWH_1,Private Collection,1,N/A
+BraTS2021_01263,BraTS20_Training_070,BraTS19_CBICA_AWI_1,Brats18_CBICA_AWI_1,Brats17_CBICA_AWI_1,Private Collection,1,N/A
+BraTS2021_01264,BraTS20_Training_102,BraTS19_CBICA_AWV_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01265,BraTS20_Training_103,BraTS19_CBICA_AWX_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01266,BraTS20_Training_071,BraTS19_CBICA_AXJ_1,Brats18_CBICA_AXJ_1,Brats17_CBICA_AXJ_1,Private Collection,1,N/A
+BraTS2021_01267,BraTS20_Training_072,BraTS19_CBICA_AXL_1,Brats18_CBICA_AXL_1,Brats17_CBICA_AXL_1,Private Collection,1,N/A
+BraTS2021_01268,BraTS20_Training_073,BraTS19_CBICA_AXM_1,Brats18_CBICA_AXM_1,Brats17_CBICA_AXM_1,Private Collection,1,N/A
+BraTS2021_01269,BraTS20_Training_074,BraTS19_CBICA_AXN_1,Brats18_CBICA_AXN_1,Brats17_CBICA_AXN_1,Private Collection,1,N/A
+BraTS2021_01270,BraTS20_Training_075,BraTS19_CBICA_AXO_1,Brats18_CBICA_AXO_1,Brats17_CBICA_AXO_1,Private Collection,1,N/A
+BraTS2021_01271,BraTS20_Training_076,BraTS19_CBICA_AXQ_1,Brats18_CBICA_AXQ_1,Brats17_CBICA_AXQ_1,Private Collection,1,N/A
+BraTS2021_01272,BraTS20_Training_077,BraTS19_CBICA_AXW_1,Brats18_CBICA_AXW_1,Brats17_CBICA_AXW_1,Private Collection,1,N/A
+BraTS2021_01273,BraTS20_Training_079,BraTS19_CBICA_AYI_1,Brats18_CBICA_AYI_1,Brats17_CBICA_AYI_1,Private Collection,1,N/A
+BraTS2021_01274,BraTS20_Training_080,BraTS19_CBICA_AYU_1,Brats18_CBICA_AYU_1,Brats17_CBICA_AYU_1,Private Collection,1,N/A
+BraTS2021_01275,BraTS20_Training_081,BraTS19_CBICA_AYW_1,Brats18_CBICA_AYW_1,Brats17_CBICA_AYW_1,Private Collection,1,N/A
+BraTS2021_01276,BraTS20_Training_082,BraTS19_CBICA_AZD_1,Brats18_CBICA_AZD_1,Brats17_CBICA_AZD_1,Private Collection,1,N/A
+BraTS2021_01277,BraTS20_Training_083,BraTS19_CBICA_AZH_1,Brats18_CBICA_AZH_1,Brats17_CBICA_AZH_1,Private Collection,1,N/A
+BraTS2021_01278,BraTS20_Training_107,BraTS19_CBICA_BAP_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01279,BraTS20_Training_110,BraTS19_CBICA_BCF_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01280,BraTS20_Training_112,BraTS19_CBICA_BDK_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01285,BraTS20_Training_106,BraTS19_CBICA_BAN_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01286,BraTS20_Training_109,BraTS19_CBICA_BBG_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01287,BraTS20_Training_115,BraTS19_CBICA_BGG_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01288,BraTS20_Training_120,BraTS19_CBICA_BGW_1,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01293,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01294,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01295,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01299,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01301,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01304,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01305,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01306,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01307,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01308,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01309,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01310,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01311,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01312,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01313,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01314,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01315,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01316,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01317,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01318,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01319,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01320,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01321,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01322,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01323,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01324,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01325,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01326,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01327,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01328,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01329,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01330,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01331,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01332,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01333,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01334,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01335,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01336,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01337,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01338,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01339,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01340,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01341,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01342,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01343,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01344,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01345,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01346,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01347,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01348,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01349,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01350,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01351,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01352,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01353,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01354,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01355,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01356,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01357,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01358,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01359,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01360,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01361,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01362,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01363,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01364,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01365,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01366,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01367,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01368,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01369,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01370,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01371,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01372,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01373,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01374,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01375,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01376,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01377,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01378,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01379,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01380,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01381,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01382,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01383,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01384,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01385,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01386,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01387,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01388,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01389,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01390,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01391,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01392,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01393,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01394,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01395,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01396,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01397,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01398,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01399,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01400,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01401,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01402,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01403,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01404,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01405,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01406,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01407,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01408,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01409,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01410,N/A,N/A,N/A,N/A,Private Collection,1,N/A
+BraTS2021_01411,BraTS20_Training_130,BraTS19_2013_10_1,Brats18_2013_10_1,Brats17_2013_10_1,priorToBraTS2017,2,brats_2013_pat0001_1_HGG
+BraTS2021_01412,BraTS20_Training_131,BraTS19_2013_5_1,Brats18_2013_5_1,Brats17_2013_5_1,priorToBraTS2017,2,brats_2013_pat0002_1_HGG
+BraTS2021_01413,BraTS20_Training_132,BraTS19_2013_18_1,Brats18_2013_18_1,Brats17_2013_18_1,priorToBraTS2017,2,brats_2013_pat0003_1_HGG
+BraTS2021_01414,BraTS20_Training_133,BraTS19_2013_21_1,Brats18_2013_21_1,Brats17_2013_21_1,priorToBraTS2017,2,brats_2013_pat0004_1_HGG
+BraTS2021_01415,BraTS20_Training_134,BraTS19_2013_19_1,Brats18_2013_19_1,Brats17_2013_19_1,priorToBraTS2017,2,brats_2013_pat0005_1_HGG
+BraTS2021_01416,BraTS20_Training_135,BraTS19_2013_20_1,Brats18_2013_20_1,Brats17_2013_20_1,priorToBraTS2017,2,brats_2013_pat0006_1_HGG
+BraTS2021_01417,BraTS20_Training_136,BraTS19_2013_2_1,Brats18_2013_2_1,Brats17_2013_2_1,priorToBraTS2017,17,brats_2013_pat0007_1_HGG
+BraTS2021_01418,BraTS20_Training_137,BraTS19_2013_14_1,Brats18_2013_14_1,Brats17_2013_14_1,priorToBraTS2017,17,brats_2013_pat0008_1_HGG
+BraTS2021_01419,BraTS20_Training_138,BraTS19_2013_12_1,Brats18_2013_12_1,Brats17_2013_12_1,priorToBraTS2017,17,brats_2013_pat0009_1_HGG
+BraTS2021_01420,BraTS20_Training_139,BraTS19_2013_13_1,Brats18_2013_13_1,Brats17_2013_13_1,priorToBraTS2017,17,brats_2013_pat0010_1_HGG
+BraTS2021_01421,BraTS20_Training_140,BraTS19_2013_7_1,Brats18_2013_7_1,Brats17_2013_7_1,priorToBraTS2017,17,brats_2013_pat0011_1_HGG
+BraTS2021_01422,BraTS20_Training_141,BraTS19_2013_25_1,Brats18_2013_25_1,Brats17_2013_25_1,priorToBraTS2017,17,brats_2013_pat0012_1_HGG
+BraTS2021_01423,BraTS20_Training_142,BraTS19_2013_26_1,Brats18_2013_26_1,Brats17_2013_26_1,priorToBraTS2017,17,brats_2013_pat0013_1_HGG
+BraTS2021_01424,BraTS20_Training_143,BraTS19_2013_23_1,Brats18_2013_23_1,Brats17_2013_23_1,priorToBraTS2017,17,brats_2013_pat0014_1_HGG
+BraTS2021_01425,BraTS20_Training_144,BraTS19_2013_17_1,Brats18_2013_17_1,Brats17_2013_17_1,priorToBraTS2017,17,brats_2013_pat0015_1_HGG
+BraTS2021_01426,BraTS20_Training_145,BraTS19_2013_27_1,Brats18_2013_27_1,Brats17_2013_27_1,priorToBraTS2017,3,brats_2013_pat0022_1_HGG
+BraTS2021_01427,BraTS20_Training_146,BraTS19_2013_3_1,Brats18_2013_3_1,Brats17_2013_3_1,priorToBraTS2017,3,brats_2013_pat0024_1_HGG
+BraTS2021_01428,BraTS20_Training_147,BraTS19_2013_11_1,Brats18_2013_11_1,Brats17_2013_11_1,priorToBraTS2017,3,brats_2013_pat0025_1_HGG
+BraTS2021_01429,BraTS20_Training_148,BraTS19_2013_4_1,Brats18_2013_4_1,Brats17_2013_4_1,priorToBraTS2017,3,brats_2013_pat0026_1_HGG
+BraTS2021_01430,BraTS20_Training_149,BraTS19_2013_22_1,Brats18_2013_22_1,Brats17_2013_22_1,priorToBraTS2017,3,brats_2013_pat0027_1_HGG
+BraTS2021_01431,BraTS20_Training_260,BraTS19_2013_0_1,Brats18_2013_0_1,Brats17_2013_0_1,priorToBraTS2017,3,brats_2013_pat0001_1_LGG
+BraTS2021_01432,BraTS20_Training_261,BraTS19_2013_6_1,Brats18_2013_6_1,Brats17_2013_6_1,priorToBraTS2017,3,brats_2013_pat0002_1_LGG
+BraTS2021_01433,BraTS20_Training_262,BraTS19_2013_16_1,Brats18_2013_16_1,Brats17_2013_16_1,priorToBraTS2017,3,brats_2013_pat0004_1_LGG
+BraTS2021_01434,BraTS20_Training_263,BraTS19_2013_15_1,Brats18_2013_15_1,Brats17_2013_15_1,priorToBraTS2017,3,brats_2013_pat0006_1_LGG
+BraTS2021_01435,BraTS20_Training_264,BraTS19_2013_8_1,Brats18_2013_8_1,Brats17_2013_8_1,priorToBraTS2017,3,brats_2013_pat0008_1_LGG
+BraTS2021_01436,BraTS20_Training_265,BraTS19_2013_24_1,Brats18_2013_24_1,Brats17_2013_24_1,priorToBraTS2017,3,brats_2013_pat0011_1_LGG
+BraTS2021_01437,BraTS20_Training_266,BraTS19_2013_29_1,Brats18_2013_29_1,Brats17_2013_29_1,priorToBraTS2017,3,brats_2013_pat0012_1_LGG
+BraTS2021_01438,BraTS20_Training_267,BraTS19_2013_28_1,Brats18_2013_28_1,Brats17_2013_28_1,priorToBraTS2017,3,brats_2013_pat0013_1_LGG
+BraTS2021_01439,BraTS20_Training_268,BraTS19_2013_1_1,Brats18_2013_1_1,Brats17_2013_1_1,priorToBraTS2017,3,brats_2013_pat0014_1_LGG
+BraTS2021_01440,BraTS20_Training_269,BraTS19_2013_9_1,Brats18_2013_9_1,Brats17_2013_9_1,priorToBraTS2017,3,brats_2013_pat0015_1_LGG
+BraTS2021_00561,BraTS20_Training_155,BraTS19_TMC_21360_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_00563,BraTS20_Training_156,BraTS19_TMC_27374_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_00565,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01151,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01152,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01167,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01168,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01169,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01170,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01171,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01172,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01173,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01174,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01175,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01176,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01177,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01178,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01179,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01180,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01181,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01182,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01183,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01184,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01185,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01186,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01187,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01188,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01189,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01190,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01191,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01192,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01193,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01194,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01195,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01196,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01197,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01198,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01199,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01200,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01201,N/A,N/A,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01537,BraTS20_Training_152,BraTS19_TMC_11964_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01657,BraTS20_Training_153,BraTS19_TMC_12866_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01658,BraTS20_Training_151,BraTS19_TMC_06643_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01659,BraTS20_Training_270,BraTS19_TMC_09043_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01660,BraTS20_Training_157,BraTS19_TMC_30014_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01661,BraTS20_Training_150,BraTS19_TMC_06290_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_01662,BraTS20_Training_154,BraTS19_TMC_15477_1,N/A,N/A,Private Collection,4,N/A
+BraTS2021_00100,BraTS20_Training_174,BraTS19_TCIA01_231_1,Brats18_TCIA01_231_1,Brats17_TCIA_231_1,TCGA-GBM,5,TCGA-02-0085
+BraTS2021_00102,BraTS20_Training_177,BraTS19_TCIA01_411_1,Brats18_TCIA01_411_1,Brats17_TCIA_411_1,TCGA-GBM,5,TCGA-02-0102
+BraTS2021_00104,BraTS20_Training_229,BraTS19_TCIA04_479_1,Brats18_TCIA04_479_1,Brats17_TCIA_479_1,TCGA-GBM,8,TCGA-12-1094
+BraTS2021_00105,BraTS20_Training_208,BraTS19_TCIA02_222_1,Brats18_TCIA02_222_1,Brats17_TCIA_222_1,TCGA-GBM,6,TCGA-06-1802
+BraTS2021_00106,BraTS20_Training_241,BraTS19_TCIA06_372_1,Brats18_TCIA06_372_1,Brats17_TCIA_372_1,TCGA-GBM,10,TCGA-19-2631
+BraTS2021_00107,BraTS20_Training_251,BraTS19_TCIA08_218_1,Brats18_TCIA08_218_1,Brats17_TCIA_218_1,TCGA-GBM,11,TCGA-76-6280
+BraTS2021_00108,BraTS20_Training_250,BraTS19_TCIA08_406_1,Brats18_TCIA08_406_1,Brats17_TCIA_406_1,TCGA-GBM,11,TCGA-76-6193
+BraTS2021_00109,BraTS20_Training_173,BraTS19_TCIA01_390_1,Brats18_TCIA01_390_1,Brats17_TCIA_390_1,TCGA-GBM,5,TCGA-02-0075
+BraTS2021_00110,BraTS20_Training_230,BraTS19_TCIA04_192_1,Brats18_TCIA04_192_1,Brats17_TCIA_192_1,TCGA-GBM,8,TCGA-12-1098
+BraTS2021_00111,BraTS20_Training_240,BraTS19_TCIA06_165_1,Brats18_TCIA06_165_1,Brats17_TCIA_165_1,TCGA-GBM,10,TCGA-19-2624
+BraTS2021_00112,BraTS20_Training_232,BraTS19_TCIA04_328_1,Brats18_TCIA04_328_1,Brats17_TCIA_328_1,TCGA-GBM,8,TCGA-12-1601
+BraTS2021_00113,BraTS20_Training_158,BraTS19_TCIA01_425_1,Brats18_TCIA01_425_1,Brats17_TCIA_425_1,TCGA-GBM,5,TCGA-02-0006
+BraTS2021_00116,BraTS20_Training_236,BraTS19_TCIA05_277_1,Brats18_TCIA05_277_1,Brats17_TCIA_277_1,TCGA-GBM,9,TCGA-14-1825
+BraTS2021_00117,BraTS20_Training_239,BraTS19_TCIA06_409_1,Brats18_TCIA06_409_1,Brats17_TCIA_409_1,TCGA-GBM,10,TCGA-19-1789
+BraTS2021_00120,BraTS20_Training_187,BraTS19_TCIA02_430_1,Brats18_TCIA02_430_1,Brats17_TCIA_430_1,TCGA-GBM,6,TCGA-06-0145
+BraTS2021_00121,BraTS20_Training_181,BraTS19_TCIA02_331_1,Brats18_TCIA02_331_1,Brats17_TCIA_331_1,TCGA-GBM,6,TCGA-06-0122
+BraTS2021_00122,BraTS20_Training_253,BraTS19_TCIA08_319_1,Brats18_TCIA08_319_1,Brats17_TCIA_319_1,TCGA-GBM,11,TCGA-76-6285
+BraTS2021_00123,BraTS20_Training_166,BraTS19_TCIA01_401_1,Brats18_TCIA01_401_1,Brats17_TCIA_401_1,TCGA-GBM,5,TCGA-02-0047
+BraTS2021_00124,BraTS20_Training_238,BraTS19_TCIA06_184_1,Brats18_TCIA06_184_1,Brats17_TCIA_184_1,TCGA-GBM,10,TCGA-19-0963
+BraTS2021_00128,BraTS20_Training_231,BraTS19_TCIA04_361_1,Brats18_TCIA04_361_1,Brats17_TCIA_361_1,TCGA-GBM,8,TCGA-12-1598
+BraTS2021_00130,BraTS20_Training_244,BraTS19_TCIA06_603_1,Brats18_TCIA06_603_1,Brats17_TCIA_603_1,TCGA-GBM,10,TCGA-19-5958
+BraTS2021_00132,BraTS20_Training_186,BraTS19_TCIA02_321_1,Brats18_TCIA02_321_1,Brats17_TCIA_321_1,TCGA-GBM,6,TCGA-06-0142
+BraTS2021_00133,BraTS20_Training_211,BraTS19_TCIA02_117_1,Brats18_TCIA02_117_1,Brats17_TCIA_117_1,TCGA-GBM,6,TCGA-06-5413
+BraTS2021_00134,BraTS20_Training_234,BraTS19_TCIA05_444_1,Brats18_TCIA05_444_1,Brats17_TCIA_444_1,TCGA-GBM,9,TCGA-14-1456
+BraTS2021_00136,BraTS20_Training_213,BraTS19_TCIA02_605_1,Brats18_TCIA02_605_1,Brats17_TCIA_605_1,TCGA-GBM,6,TCGA-06-6389
+BraTS2021_00137,BraTS20_Training_183,BraTS19_TCIA02_377_1,Brats18_TCIA02_377_1,Brats17_TCIA_377_1,TCGA-GBM,6,TCGA-06-0137
+BraTS2021_00138,BraTS20_Training_243,BraTS19_TCIA06_332_1,Brats18_TCIA06_332_1,Brats17_TCIA_332_1,TCGA-GBM,10,TCGA-19-5954
+BraTS2021_00139,BraTS20_Training_167,BraTS19_TCIA01_448_1,Brats18_TCIA01_448_1,Brats17_TCIA_448_1,TCGA-GBM,5,TCGA-02-0054
+BraTS2021_00140,BraTS20_Training_233,BraTS19_TCIA04_437_1,Brats18_TCIA04_437_1,Brats17_TCIA_437_1,TCGA-GBM,8,TCGA-12-3650
+BraTS2021_00142,BraTS20_Training_185,BraTS19_TCIA02_314_1,Brats18_TCIA02_314_1,Brats17_TCIA_314_1,TCGA-GBM,6,TCGA-06-0139
+BraTS2021_00143,BraTS20_Training_180,BraTS19_TCIA02_491_1,Brats18_TCIA02_491_1,Brats17_TCIA_491_1,TCGA-GBM,6,TCGA-06-0119
+BraTS2021_00144,BraTS20_Training_209,BraTS19_TCIA02_607_1,Brats18_TCIA02_607_1,Brats17_TCIA_607_1,TCGA-GBM,6,TCGA-06-2570
+BraTS2021_00146,BraTS20_Training_212,BraTS19_TCIA02_606_1,Brats18_TCIA02_606_1,Brats17_TCIA_606_1,TCGA-GBM,6,TCGA-06-5417
+BraTS2021_00147,BraTS20_Training_201,BraTS19_TCIA02_368_1,Brats18_TCIA02_368_1,Brats17_TCIA_368_1,TCGA-GBM,6,TCGA-06-0190
+BraTS2021_00148,BraTS20_Training_249,BraTS19_TCIA08_280_1,Brats18_TCIA08_280_1,Brats17_TCIA_280_1,TCGA-GBM,11,TCGA-76-6191
+BraTS2021_00149,BraTS20_Training_159,BraTS19_TCIA01_190_1,Brats18_TCIA01_190_1,Brats17_TCIA_190_1,TCGA-GBM,5,TCGA-02-0009
+BraTS2021_00150,BraTS20_Training_237,BraTS19_TCIA05_396_1,Brats18_TCIA05_396_1,Brats17_TCIA_396_1,TCGA-GBM,9,TCGA-14-3477
+BraTS2021_00151,BraTS20_Training_175,BraTS19_TCIA01_203_1,Brats18_TCIA01_203_1,Brats17_TCIA_203_1,TCGA-GBM,5,TCGA-02-0086
+BraTS2021_00831,BraTS20_Training_182,BraTS19_TCIA02_198_1,Brats18_TCIA02_198_1,Brats17_TCIA_198_1,TCGA-GBM,6,TCGA-06-0130
+BraTS2021_00999,BraTS20_Training_171,BraTS19_TCIA01_180_1,Brats18_TCIA01_180_1,Brats17_TCIA_180_1,TCGA-GBM,5,TCGA-02-0069
+BraTS2021_01002,BraTS20_Training_179,BraTS19_TCIA01_150_1,Brats18_TCIA01_150_1,Brats17_TCIA_150_1,TCGA-GBM,5,TCGA-02-0116
+BraTS2021_01003,BraTS20_Training_160,BraTS19_TCIA01_460_1,Brats18_TCIA01_460_1,Brats17_TCIA_460_1,TCGA-GBM,5,TCGA-02-0011
+BraTS2021_01005,BraTS20_Training_162,BraTS19_TCIA01_429_1,Brats18_TCIA01_429_1,Brats17_TCIA_429_1,TCGA-GBM,5,TCGA-02-0033
+BraTS2021_01007,BraTS20_Training_169,BraTS19_TCIA01_499_1,Brats18_TCIA01_499_1,Brats17_TCIA_499_1,TCGA-GBM,5,TCGA-02-0064
+BraTS2021_01009,BraTS20_Training_161,BraTS19_TCIA01_186_1,Brats18_TCIA01_186_1,Brats17_TCIA_186_1,TCGA-GBM,5,TCGA-02-0027
+BraTS2021_01139,BraTS20_Training_247,BraTS19_TCIA08_105_1,Brats18_TCIA08_105_1,Brats17_TCIA_105_1,TCGA-GBM,11,TCGA-76-4934
+BraTS2021_01140,BraTS20_Training_248,BraTS19_TCIA08_162_1,Brats18_TCIA08_162_1,Brats17_TCIA_162_1,TCGA-GBM,11,TCGA-76-4935
+BraTS2021_01141,BraTS20_Training_254,BraTS19_TCIA08_242_1,Brats18_TCIA08_242_1,Brats17_TCIA_242_1,TCGA-GBM,11,TCGA-76-6656
+BraTS2021_01142,BraTS20_Training_255,BraTS19_TCIA08_167_1,Brats18_TCIA08_167_1,Brats17_TCIA_167_1,TCGA-GBM,11,TCGA-76-6657
+BraTS2021_01143,BraTS20_Training_256,BraTS19_TCIA08_205_1,Brats18_TCIA08_205_1,Brats17_TCIA_205_1,TCGA-GBM,11,TCGA-76-6661
+BraTS2021_01144,BraTS20_Training_257,BraTS19_TCIA08_234_1,Brats18_TCIA08_234_1,Brats17_TCIA_234_1,TCGA-GBM,11,TCGA-76-6662
+BraTS2021_01145,BraTS20_Training_258,BraTS19_TCIA08_436_1,Brats18_TCIA08_436_1,Brats17_TCIA_436_1,TCGA-GBM,11,TCGA-76-6663
+BraTS2021_01146,BraTS20_Training_259,BraTS19_TCIA08_113_1,Brats18_TCIA08_113_1,Brats17_TCIA_113_1,TCGA-GBM,11,TCGA-76-6664
+BraTS2021_01281,BraTS20_Training_163,BraTS19_TCIA01_201_1,Brats18_TCIA01_201_1,Brats17_TCIA_201_1,TCGA-GBM,5,TCGA-02-0034
+BraTS2021_01282,BraTS20_Training_164,BraTS19_TCIA01_378_1,Brats18_TCIA01_378_1,Brats17_TCIA_378_1,TCGA-GBM,5,TCGA-02-0037
+BraTS2021_01283,BraTS20_Training_165,BraTS19_TCIA01_147_1,Brats18_TCIA01_147_1,Brats17_TCIA_147_1,TCGA-GBM,5,TCGA-02-0046
+BraTS2021_01284,BraTS20_Training_168,BraTS19_TCIA01_412_1,Brats18_TCIA01_412_1,Brats17_TCIA_412_1,TCGA-GBM,5,TCGA-02-0059
+BraTS2021_01289,BraTS20_Training_170,BraTS19_TCIA01_235_1,Brats18_TCIA01_235_1,Brats17_TCIA_235_1,TCGA-GBM,5,TCGA-02-0068
+BraTS2021_01290,BraTS20_Training_172,BraTS19_TCIA01_131_1,Brats18_TCIA01_131_1,Brats17_TCIA_131_1,TCGA-GBM,5,TCGA-02-0070
+BraTS2021_01291,BraTS20_Training_176,BraTS19_TCIA01_221_1,Brats18_TCIA01_221_1,Brats17_TCIA_221_1,TCGA-GBM,5,TCGA-02-0087
+BraTS2021_01292,BraTS20_Training_178,BraTS19_TCIA01_335_1,Brats18_TCIA01_335_1,Brats17_TCIA_335_1,TCGA-GBM,5,TCGA-02-0106
+BraTS2021_01296,BraTS20_Training_184,BraTS19_TCIA02_290_1,Brats18_TCIA02_290_1,Brats17_TCIA_290_1,TCGA-GBM,6,TCGA-06-0138
+BraTS2021_01297,BraTS20_Training_188,BraTS19_TCIA02_283_1,Brats18_TCIA02_283_1,Brats17_TCIA_283_1,TCGA-GBM,6,TCGA-06-0149
+BraTS2021_01298,BraTS20_Training_189,BraTS19_TCIA02_455_1,Brats18_TCIA02_455_1,Brats17_TCIA_455_1,TCGA-GBM,6,TCGA-06-0154
+BraTS2021_01300,BraTS20_Training_190,BraTS19_TCIA02_226_1,Brats18_TCIA02_226_1,Brats17_TCIA_226_1,TCGA-GBM,6,TCGA-06-0158
+BraTS2021_01302,BraTS20_Training_191,BraTS19_TCIA02_118_1,Brats18_TCIA02_118_1,Brats17_TCIA_118_1,TCGA-GBM,6,TCGA-06-0162
+BraTS2021_01303,BraTS20_Training_192,BraTS19_TCIA02_151_1,Brats18_TCIA02_151_1,Brats17_TCIA_151_1,TCGA-GBM,6,TCGA-06-0164
+BraTS2021_01441,BraTS20_Training_193,BraTS19_TCIA02_168_1,Brats18_TCIA02_168_1,Brats17_TCIA_168_1,TCGA-GBM,6,TCGA-06-0176
+BraTS2021_01442,BraTS20_Training_194,BraTS19_TCIA02_300_1,Brats18_TCIA02_300_1,Brats17_TCIA_300_1,TCGA-GBM,6,TCGA-06-0177
+BraTS2021_01443,BraTS20_Training_195,BraTS19_TCIA02_394_1,Brats18_TCIA02_394_1,Brats17_TCIA_394_1,TCGA-GBM,6,TCGA-06-0179
+BraTS2021_01444,BraTS20_Training_196,BraTS19_TCIA02_471_1,Brats18_TCIA02_471_1,Brats17_TCIA_471_1,TCGA-GBM,6,TCGA-06-0182
+BraTS2021_01445,BraTS20_Training_197,BraTS19_TCIA02_374_1,Brats18_TCIA02_374_1,Brats17_TCIA_374_1,TCGA-GBM,6,TCGA-06-0184
+BraTS2021_01446,BraTS20_Training_198,BraTS19_TCIA02_370_1,Brats18_TCIA02_370_1,Brats17_TCIA_370_1,TCGA-GBM,6,TCGA-06-0185
+BraTS2021_01447,BraTS20_Training_199,BraTS19_TCIA02_135_1,Brats18_TCIA02_135_1,Brats17_TCIA_135_1,TCGA-GBM,6,TCGA-06-0187
+BraTS2021_01448,BraTS20_Training_200,BraTS19_TCIA02_171_1,Brats18_TCIA02_171_1,Brats17_TCIA_171_1,TCGA-GBM,6,TCGA-06-0188
+BraTS2021_01449,BraTS20_Training_202,BraTS19_TCIA02_608_1,Brats18_TCIA02_608_1,Brats17_TCIA_608_1,TCGA-GBM,6,TCGA-06-0192
+BraTS2021_01450,BraTS20_Training_203,BraTS19_TCIA02_179_1,Brats18_TCIA02_179_1,Brats17_TCIA_179_1,TCGA-GBM,6,TCGA-06-0238
+BraTS2021_01451,BraTS20_Training_204,BraTS19_TCIA02_322_1,Brats18_TCIA02_322_1,Brats17_TCIA_322_1,TCGA-GBM,6,TCGA-06-0240
+BraTS2021_01452,BraTS20_Training_205,BraTS19_TCIA02_208_1,Brats18_TCIA02_208_1,Brats17_TCIA_208_1,TCGA-GBM,6,TCGA-06-0644
+BraTS2021_01453,BraTS20_Training_206,BraTS19_TCIA02_473_1,Brats18_TCIA02_473_1,Brats17_TCIA_473_1,TCGA-GBM,6,TCGA-06-0646
+BraTS2021_01454,BraTS20_Training_207,BraTS19_TCIA02_309_1,Brats18_TCIA02_309_1,Brats17_TCIA_309_1,TCGA-GBM,6,TCGA-06-1084
+BraTS2021_01455,BraTS20_Training_210,BraTS19_TCIA02_274_1,Brats18_TCIA02_274_1,Brats17_TCIA_274_1,TCGA-GBM,6,TCGA-06-5408
+BraTS2021_01456,BraTS20_Training_214,BraTS19_TCIA03_121_1,Brats18_TCIA03_121_1,Brats17_TCIA_121_1,TCGA-GBM,7,TCGA-08-0355
+BraTS2021_01457,BraTS20_Training_215,BraTS19_TCIA03_375_1,Brats18_TCIA03_375_1,Brats17_TCIA_375_1,TCGA-GBM,7,TCGA-08-0356
+BraTS2021_01458,BraTS20_Training_216,BraTS19_TCIA03_265_1,Brats18_TCIA03_265_1,Brats17_TCIA_265_1,TCGA-GBM,7,TCGA-08-0359
+BraTS2021_01459,BraTS20_Training_217,BraTS19_TCIA03_338_1,Brats18_TCIA03_338_1,Brats17_TCIA_338_1,TCGA-GBM,7,TCGA-08-0360
+BraTS2021_01460,BraTS20_Training_218,BraTS19_TCIA03_138_1,Brats18_TCIA03_138_1,Brats17_TCIA_138_1,TCGA-GBM,7,TCGA-08-0385
+BraTS2021_01461,BraTS20_Training_219,BraTS19_TCIA03_498_1,Brats18_TCIA03_498_1,Brats17_TCIA_498_1,TCGA-GBM,7,TCGA-08-0389
+BraTS2021_01462,BraTS20_Training_220,BraTS19_TCIA03_257_1,Brats18_TCIA03_257_1,Brats17_TCIA_257_1,TCGA-GBM,7,TCGA-08-0390
+BraTS2021_01463,BraTS20_Training_221,BraTS19_TCIA03_296_1,Brats18_TCIA03_296_1,Brats17_TCIA_296_1,TCGA-GBM,7,TCGA-08-0392
+BraTS2021_01464,BraTS20_Training_222,BraTS19_TCIA03_133_1,Brats18_TCIA03_133_1,Brats17_TCIA_133_1,TCGA-GBM,7,TCGA-08-0509
+BraTS2021_01465,BraTS20_Training_223,BraTS19_TCIA03_199_1,Brats18_TCIA03_199_1,Brats17_TCIA_199_1,TCGA-GBM,7,TCGA-08-0512
+BraTS2021_01466,BraTS20_Training_224,BraTS19_TCIA03_419_1,Brats18_TCIA03_419_1,Brats17_TCIA_419_1,TCGA-GBM,7,TCGA-08-0520
+BraTS2021_01467,BraTS20_Training_225,BraTS19_TCIA03_474_1,Brats18_TCIA03_474_1,Brats17_TCIA_474_1,TCGA-GBM,7,TCGA-08-0522
+BraTS2021_01468,BraTS20_Training_226,BraTS19_TCIA04_149_1,Brats18_TCIA04_149_1,Brats17_TCIA_149_1,TCGA-GBM,8,TCGA-12-0616
+BraTS2021_01469,BraTS20_Training_227,BraTS19_TCIA04_343_1,Brats18_TCIA04_343_1,Brats17_TCIA_343_1,TCGA-GBM,8,TCGA-12-0776
+BraTS2021_01470,BraTS20_Training_228,BraTS19_TCIA04_111_1,Brats18_TCIA04_111_1,Brats17_TCIA_111_1,TCGA-GBM,8,TCGA-12-0829
+BraTS2021_01471,BraTS20_Training_235,BraTS19_TCIA05_478_1,Brats18_TCIA05_478_1,Brats17_TCIA_478_1,TCGA-GBM,9,TCGA-14-1794
+BraTS2021_01472,BraTS20_Training_242,BraTS19_TCIA06_247_1,Brats18_TCIA06_247_1,Brats17_TCIA_247_1,TCGA-GBM,10,TCGA-19-5951
+BraTS2021_01473,BraTS20_Training_245,BraTS19_TCIA06_211_1,Brats18_TCIA06_211_1,Brats17_TCIA_211_1,TCGA-GBM,10,TCGA-19-5960
+BraTS2021_01474,BraTS20_Training_246,BraTS19_TCIA08_278_1,Brats18_TCIA08_278_1,Brats17_TCIA_278_1,TCGA-GBM,11,TCGA-76-4932
+BraTS2021_01475,BraTS20_Training_252,BraTS19_TCIA08_469_1,Brats18_TCIA08_469_1,Brats17_TCIA_469_1,TCGA-GBM,11,TCGA-76-6282
+BraTS2021_01476,BraTS20_Training_271,BraTS19_TCIA09_451_1,Brats18_TCIA09_451_1,Brats17_TCIA_451_1,TCGA-LGG,12,TCGA-CS-4942
+BraTS2021_01477,BraTS20_Training_272,BraTS19_TCIA09_254_1,Brats18_TCIA09_254_1,Brats17_TCIA_254_1,TCGA-LGG,12,TCGA-CS-4944
+BraTS2021_01478,BraTS20_Training_273,BraTS19_TCIA09_255_1,Brats18_TCIA09_255_1,Brats17_TCIA_255_1,TCGA-LGG,12,TCGA-CS-5393
+BraTS2021_01479,BraTS20_Training_274,BraTS19_TCIA09_141_1,Brats18_TCIA09_141_1,Brats17_TCIA_141_1,TCGA-LGG,12,TCGA-CS-5396
+BraTS2021_01480,BraTS20_Training_275,BraTS19_TCIA09_177_1,Brats18_TCIA09_177_1,Brats17_TCIA_177_1,TCGA-LGG,12,TCGA-CS-5397
+BraTS2021_01481,BraTS20_Training_276,BraTS19_TCIA09_312_1,Brats18_TCIA09_312_1,Brats17_TCIA_312_1,TCGA-LGG,12,TCGA-CS-6186
+BraTS2021_01482,BraTS20_Training_277,BraTS19_TCIA09_620_1,Brats18_TCIA09_620_1,Brats17_TCIA_620_1,TCGA-LGG,12,TCGA-CS-6188
+BraTS2021_01483,BraTS20_Training_278,BraTS19_TCIA09_493_1,Brats18_TCIA09_493_1,Brats17_TCIA_493_1,TCGA-LGG,12,TCGA-CS-6665
+BraTS2021_01484,BraTS20_Training_279,BraTS19_TCIA09_402_1,Brats18_TCIA09_402_1,Brats17_TCIA_402_1,TCGA-LGG,12,TCGA-CS-6666
+BraTS2021_01485,BraTS20_Training_280,BraTS19_TCIA09_428_1,Brats18_TCIA09_428_1,Brats17_TCIA_428_1,TCGA-LGG,12,TCGA-CS-6668
+BraTS2021_01486,BraTS20_Training_281,BraTS19_TCIA09_462_1,Brats18_TCIA09_462_1,Brats17_TCIA_462_1,TCGA-LGG,12,TCGA-CS-6669
+BraTS2021_01487,BraTS20_Training_282,BraTS19_TCIA10_152_1,Brats18_TCIA10_152_1,Brats17_TCIA_152_1,TCGA-LGG,13,TCGA-DU-5851
+BraTS2021_01488,BraTS20_Training_283,BraTS19_TCIA10_299_1,Brats18_TCIA10_299_1,Brats17_TCIA_299_1,TCGA-LGG,13,TCGA-DU-5854
+BraTS2021_01489,BraTS20_Training_284,BraTS19_TCIA10_393_1,Brats18_TCIA10_393_1,Brats17_TCIA_393_1,TCGA-LGG,13,TCGA-DU-5855
+BraTS2021_01490,BraTS20_Training_285,BraTS19_TCIA10_490_1,Brats18_TCIA10_490_1,Brats17_TCIA_490_1,TCGA-LGG,13,TCGA-DU-5872
+BraTS2021_01491,BraTS20_Training_286,BraTS19_TCIA10_266_1,Brats18_TCIA10_266_1,Brats17_TCIA_266_1,TCGA-LGG,13,TCGA-DU-5874
+BraTS2021_01492,BraTS20_Training_287,BraTS19_TCIA10_449_1,Brats18_TCIA10_449_1,Brats17_TCIA_449_1,TCGA-LGG,13,TCGA-DU-6404
+BraTS2021_01493,BraTS20_Training_288,BraTS19_TCIA10_408_1,Brats18_TCIA10_408_1,Brats17_TCIA_408_1,TCGA-LGG,13,TCGA-DU-6542
+BraTS2021_01494,BraTS20_Training_289,BraTS19_TCIA10_175_1,Brats18_TCIA10_175_1,Brats17_TCIA_175_1,TCGA-LGG,13,TCGA-DU-7008
+BraTS2021_01495,BraTS20_Training_290,BraTS19_TCIA10_103_1,Brats18_TCIA10_103_1,Brats17_TCIA_103_1,TCGA-LGG,13,TCGA-DU-7010
+BraTS2021_01496,BraTS20_Training_291,BraTS19_TCIA10_109_1,Brats18_TCIA10_109_1,Brats17_TCIA_109_1,TCGA-LGG,13,TCGA-DU-7014
+BraTS2021_01497,BraTS20_Training_292,BraTS19_TCIA10_330_1,Brats18_TCIA10_330_1,Brats17_TCIA_330_1,TCGA-LGG,13,TCGA-DU-7015
+BraTS2021_01498,BraTS20_Training_293,BraTS19_TCIA10_410_1,Brats18_TCIA10_410_1,Brats17_TCIA_410_1,TCGA-LGG,13,TCGA-DU-7018
+BraTS2021_01499,BraTS20_Training_294,BraTS19_TCIA10_307_1,Brats18_TCIA10_307_1,Brats17_TCIA_307_1,TCGA-LGG,13,TCGA-DU-7019
+BraTS2021_01500,BraTS20_Training_295,BraTS19_TCIA10_130_1,Brats18_TCIA10_130_1,Brats17_TCIA_130_1,TCGA-LGG,13,TCGA-DU-7294
+BraTS2021_01501,BraTS20_Training_296,BraTS19_TCIA10_241_1,Brats18_TCIA10_241_1,Brats17_TCIA_241_1,TCGA-LGG,13,TCGA-DU-7298
+BraTS2021_01502,BraTS20_Training_297,BraTS19_TCIA10_413_1,Brats18_TCIA10_413_1,Brats17_TCIA_413_1,TCGA-LGG,13,TCGA-DU-7299
+BraTS2021_01503,BraTS20_Training_298,BraTS19_TCIA10_276_1,Brats18_TCIA10_276_1,Brats17_TCIA_276_1,TCGA-LGG,13,TCGA-DU-7300
+BraTS2021_01504,BraTS20_Training_299,BraTS19_TCIA10_346_1,Brats18_TCIA10_346_1,Brats17_TCIA_346_1,TCGA-LGG,13,TCGA-DU-7301
+BraTS2021_01505,BraTS20_Training_300,BraTS19_TCIA10_387_1,Brats18_TCIA10_387_1,Brats17_TCIA_387_1,TCGA-LGG,13,TCGA-DU-7302
+BraTS2021_01506,BraTS20_Training_301,BraTS19_TCIA10_282_1,Brats18_TCIA10_282_1,Brats17_TCIA_282_1,TCGA-LGG,13,TCGA-DU-7304
+BraTS2021_01507,BraTS20_Training_302,BraTS19_TCIA10_442_1,Brats18_TCIA10_442_1,Brats17_TCIA_442_1,TCGA-LGG,13,TCGA-DU-7306
+BraTS2021_01508,BraTS20_Training_303,BraTS19_TCIA10_420_1,Brats18_TCIA10_420_1,Brats17_TCIA_420_1,TCGA-LGG,13,TCGA-DU-7309
+BraTS2021_01509,BraTS20_Training_304,BraTS19_TCIA10_310_1,Brats18_TCIA10_310_1,Brats17_TCIA_310_1,TCGA-LGG,13,TCGA-DU-8162
+BraTS2021_01510,BraTS20_Training_305,BraTS19_TCIA10_325_1,Brats18_TCIA10_325_1,Brats17_TCIA_325_1,TCGA-LGG,13,TCGA-DU-8164
+BraTS2021_01511,BraTS20_Training_306,BraTS19_TCIA10_351_1,Brats18_TCIA10_351_1,Brats17_TCIA_351_1,TCGA-LGG,13,TCGA-DU-8166
+BraTS2021_01512,BraTS20_Training_307,BraTS19_TCIA10_202_1,Brats18_TCIA10_202_1,Brats17_TCIA_202_1,TCGA-LGG,13,TCGA-DU-8167
+BraTS2021_01513,BraTS20_Training_308,BraTS19_TCIA10_261_1,Brats18_TCIA10_261_1,Brats17_TCIA_261_1,TCGA-LGG,13,TCGA-DU-8168
+BraTS2021_01514,BraTS20_Training_309,BraTS19_TCIA10_628_1,Brats18_TCIA10_628_1,Brats17_TCIA_628_1,TCGA-LGG,13,TCGA-DU-A5TR
+BraTS2021_01515,BraTS20_Training_310,BraTS19_TCIA10_625_1,Brats18_TCIA10_625_1,Brats17_TCIA_625_1,TCGA-LGG,13,TCGA-DU-A5TS
+BraTS2021_01516,BraTS20_Training_311,BraTS19_TCIA10_640_1,Brats18_TCIA10_640_1,Brats17_TCIA_640_1,TCGA-LGG,13,TCGA-DU-A5TT
+BraTS2021_01517,BraTS20_Training_312,BraTS19_TCIA10_644_1,Brats18_TCIA10_644_1,Brats17_TCIA_644_1,TCGA-LGG,13,TCGA-DU-A5TU
+BraTS2021_01518,BraTS20_Training_313,BraTS19_TCIA10_639_1,Brats18_TCIA10_639_1,Brats17_TCIA_639_1,TCGA-LGG,13,TCGA-DU-A5TW
+BraTS2021_01519,BraTS20_Training_314,BraTS19_TCIA10_629_1,Brats18_TCIA10_629_1,Brats17_TCIA_629_1,TCGA-LGG,13,TCGA-DU-A5TY
+BraTS2021_01520,BraTS20_Training_315,BraTS19_TCIA10_632_1,Brats18_TCIA10_632_1,Brats17_TCIA_632_1,TCGA-LGG,13,TCGA-DU-A6S7
+BraTS2021_01521,BraTS20_Training_316,BraTS19_TCIA10_637_1,Brats18_TCIA10_637_1,Brats17_TCIA_637_1,TCGA-LGG,13,TCGA-DU-A6S8
+BraTS2021_01522,BraTS20_Training_317,BraTS19_TCIA12_470_1,Brats18_TCIA12_470_1,Brats17_TCIA_470_1,TCGA-LGG,14,TCGA-FG-5964
+BraTS2021_01523,BraTS20_Training_318,BraTS19_TCIA12_480_1,Brats18_TCIA12_480_1,Brats17_TCIA_480_1,TCGA-LGG,14,TCGA-FG-6689
+BraTS2021_01524,BraTS20_Training_319,BraTS19_TCIA12_298_1,Brats18_TCIA12_298_1,Brats17_TCIA_298_1,TCGA-LGG,14,TCGA-FG-6691
+BraTS2021_01525,BraTS20_Training_320,BraTS19_TCIA12_101_1,Brats18_TCIA12_101_1,Brats17_TCIA_101_1,TCGA-LGG,14,TCGA-FG-6692
+BraTS2021_01526,BraTS20_Training_321,BraTS19_TCIA12_466_1,Brats18_TCIA12_466_1,Brats17_TCIA_466_1,TCGA-LGG,14,TCGA-FG-7634
+BraTS2021_01527,BraTS20_Training_322,BraTS19_TCIA12_249_1,Brats18_TCIA12_249_1,Brats17_TCIA_249_1,TCGA-LGG,14,TCGA-FG-A4MT
+BraTS2021_01528,BraTS20_Training_323,BraTS19_TCIA13_623_1,Brats18_TCIA13_623_1,Brats17_TCIA_623_1,TCGA-LGG,15,TCGA-HT-7473
+BraTS2021_01529,BraTS20_Training_324,BraTS19_TCIA13_618_1,Brats18_TCIA13_618_1,Brats17_TCIA_618_1,TCGA-LGG,15,TCGA-HT-7602
+BraTS2021_01530,BraTS20_Training_325,BraTS19_TCIA13_650_1,Brats18_TCIA13_650_1,Brats17_TCIA_650_1,TCGA-LGG,15,TCGA-HT-7680
+BraTS2021_01531,BraTS20_Training_326,BraTS19_TCIA13_615_1,Brats18_TCIA13_615_1,Brats17_TCIA_615_1,TCGA-LGG,15,TCGA-HT-7686
+BraTS2021_01532,BraTS20_Training_327,BraTS19_TCIA13_654_1,Brats18_TCIA13_654_1,Brats17_TCIA_654_1,TCGA-LGG,15,TCGA-HT-7690
+BraTS2021_01533,BraTS20_Training_328,BraTS19_TCIA13_633_1,Brats18_TCIA13_633_1,Brats17_TCIA_633_1,TCGA-LGG,15,TCGA-HT-7694
+BraTS2021_01534,BraTS20_Training_329,BraTS19_TCIA13_645_1,Brats18_TCIA13_645_1,Brats17_TCIA_645_1,TCGA-LGG,15,TCGA-HT-7879
+BraTS2021_01535,BraTS20_Training_330,BraTS19_TCIA13_630_1,Brats18_TCIA13_630_1,Brats17_TCIA_630_1,TCGA-LGG,15,TCGA-HT-7884
+BraTS2021_01536,BraTS20_Training_331,BraTS19_TCIA13_621_1,Brats18_TCIA13_621_1,Brats17_TCIA_621_1,TCGA-LGG,15,TCGA-HT-8018
+BraTS2021_01663,BraTS20_Training_332,BraTS19_TCIA13_653_1,Brats18_TCIA13_653_1,Brats17_TCIA_653_1,TCGA-LGG,15,TCGA-HT-8111
+BraTS2021_01664,BraTS20_Training_333,BraTS19_TCIA13_642_1,Brats18_TCIA13_642_1,Brats17_TCIA_642_1,TCGA-LGG,15,TCGA-HT-8114
+BraTS2021_01665,BraTS20_Training_334,BraTS19_TCIA13_624_1,Brats18_TCIA13_624_1,Brats17_TCIA_624_1,TCGA-LGG,15,TCGA-HT-8563
+BraTS2021_01666,BraTS20_Training_335,BraTS19_TCIA13_634_1,Brats18_TCIA13_634_1,Brats17_TCIA_634_1,TCGA-LGG,15,TCGA-HT-A61A
+BraTS2021_01147,N/A,N/A,N/A,N/A,Private Collection,23,N/A
+BraTS2021_01148,N/A,N/A,N/A,N/A,Private Collection,23,N/A
+BraTS2021_01149,N/A,N/A,N/A,N/A,Private Collection,23,N/A
+BraTS2021_01150,N/A,N/A,N/A,N/A,Private Collection,23,N/A
+BraTS2021_00000,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00002,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00003,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00005,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00006,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00008,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00009,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00011,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00012,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00014,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00016,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00017,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00018,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00019,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00020,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00021,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00022,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00024,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00025,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00026,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00028,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00030,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00031,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00032,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00033,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00035,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00036,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00043,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00044,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00045,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00046,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00048,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00049,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00051,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00052,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00053,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00054,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00056,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00058,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00059,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00060,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00061,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00062,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00063,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00064,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00066,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00068,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00070,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00071,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00072,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00074,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00077,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00078,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00081,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00084,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00085,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00087,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00088,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00089,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00090,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00094,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00095,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00096,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00097,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00098,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00099,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00103,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00464,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00466,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00468,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00469,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00470,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00472,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00477,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00478,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00479,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00480,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00481,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00483,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00485,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00488,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00491,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00493,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00494,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00495,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00496,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00498,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00499,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00500,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00501,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00502,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00504,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00505,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00506,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00507,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00510,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00511,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00512,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00513,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00514,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00516,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00517,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00518,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00519,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00520,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00523,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00524,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00525,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00526,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00528,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00529,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00530,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00532,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00533,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00537,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00538,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00539,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00540,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00542,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00543,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00544,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00545,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00547,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00548,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00549,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00550,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00551,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00552,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00554,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00555,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00556,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00557,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00558,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00559,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00601,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00602,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00604,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00605,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00606,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00607,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00608,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00610,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00611,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00612,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00613,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00615,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00616,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00618,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00619,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00620,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00621,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00622,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00623,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00624,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00625,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00626,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00628,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00630,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00631,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00636,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00638,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00639,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00640,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00641,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00642,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00645,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00646,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00649,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00650,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00651,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00652,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00654,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00655,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00656,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00657,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00658,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00659,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00661,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00663,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00667,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00668,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00674,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00675,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00676,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00677,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00679,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00680,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00682,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00683,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00684,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00685,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00686,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00687,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00688,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00689,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00690,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00691,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00692,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00693,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00694,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00697,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00698,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00703,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00704,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00705,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00706,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00707,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00708,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00709,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00714,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00715,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00716,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00718,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00723,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00724,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00725,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00727,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00728,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00729,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00730,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00731,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00732,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00733,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00734,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00735,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00736,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00737,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00739,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00740,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00742,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00744,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00746,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00747,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00750,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00751,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00753,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00756,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00757,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00758,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00759,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00760,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00764,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00765,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00767,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00768,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00772,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00773,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00774,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00775,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00777,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_00778,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01027,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01028,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01035,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01153,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01154,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01155,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01156,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01157,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01158,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01159,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01160,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01161,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01538,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01539,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01540,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01541,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01542,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01543,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01544,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01545,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01546,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01547,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01548,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01549,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01550,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01551,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01552,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01553,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01554,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01555,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01556,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01557,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01558,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01559,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01560,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01561,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01562,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01563,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01564,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01565,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01566,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01567,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01568,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01569,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01570,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01571,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01572,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01573,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01574,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01575,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01576,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01577,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01578,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01579,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01580,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01581,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01582,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01583,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01584,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01585,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01586,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01587,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01588,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01589,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01590,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01591,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01592,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01593,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01594,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01595,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01596,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01597,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01598,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01599,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01600,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01601,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01602,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01603,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01604,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01605,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01606,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01607,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01608,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01609,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01610,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01611,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01612,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01613,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01614,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01615,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01616,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01617,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01618,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01619,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01620,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01621,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01622,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01623,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01624,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01625,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01626,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01627,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01628,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01629,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01630,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01631,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01632,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01633,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01634,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01635,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01636,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01637,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01638,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01639,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01640,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01641,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01642,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01643,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01644,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01645,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01646,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01647,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01648,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01649,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01650,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01651,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01652,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01653,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01654,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01655,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01656,N/A,N/A,N/A,N/A,Private Collection,18,N/A
+BraTS2021_01162,N/A,N/A,N/A,N/A,Private Collection,23,N/A
+N/A,BraTS20_Training_353,N/A,N/A,N/A,IvyGAP,16,W36
+N/A,BraTS20_Training_354,N/A,N/A,N/A,IvyGAP,16,W43
+N/A,BraTS20_Training_355,N/A,N/A,N/A,IvyGAP,16,W39
+N/A,BraTS20_Training_367,N/A,N/A,N/A,IvyGAP,16,W7
