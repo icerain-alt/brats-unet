@@ -1,11 +1,11 @@
 # brats-unet
 **UNet for brain tumor segmentation**
 
-![brats](C:\Users\Yubin\Desktop\brats.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/3b911fcca6224448a1a11ebe96fcbd74.jpeg#pic_center)
 
 BraTS是**MICCAI**所有比赛中历史最悠久的，到2021年已经连续举办了10年，参赛人数众多，是学习医学图像分割最前沿的平台之一。
 
-![image-20230408093340483](C:\Users\Yubin\AppData\Roaming\Typora\typora-user-images\image-20230408093340483.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/a50c6b3bdd8e49979337bdfc9909b214.png#pic_center)
 
 ## 数据准备
 
